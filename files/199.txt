@@ -1,0 +1,81 @@
+Video: MEET US in 2 Minutes!
+
+Are you brave enough to challenge yourself?
+
+Siemens Industry Software headquartered in Leuven Belgium is the top tier partner in test and mechatronic simulation. Through our simulation software testing systems and engineering services we enable advanced manufacturing companies to get better products to market faster and turn superior process efficiency into key driven advantages. We address the challenges associated with intelligent system design with a strong passion for innovation and a continuous drive for excellence. Our Romania based offices play a meaningful role in our R&D software strategy.
+
+We are looking for a highly motivated engineer to join the Simcenter Horizontal MBSE team. MBSE is about developing a liaison the system requirements and the simulation worlds within an integrated environment. Your goals are split into developing and maintaining various frontend and backend components of Simcenter Studio a tool for supporting conceptual design and improving and maintaining CI/CD pipelines to improve the development process. You will work in a highly dynamic agile and multicultural team.
+
+Your role
+
+Develop various frontend and backend components of Simcenter Studio.
+Maintain and improve our CI/CD pipelines to facilitate development.
+Have an active role in shaping the future of Simcenter Studio proposing needs & improvements from a development perspective.
+Chip in to and write software documentation and tests
+Coordinate and communicate work effort within the organization.
+Identify and keep tabs on novel technical concepts and trends
+
+What do you need to realize what matters?
+
+At least 2 years of experience in Software Engineering
+Experience in Python and TypeScript with an understanding of Object-Oriented Programming (OOP) and software patterns
+Knowledge of CI/CD preferably Jenkins and/or Gitlab
+Good oral and written communication skills
+Experience working in a Linux environment
+Organized independent and diligent
+Good knowledge of English (both written and spoken)
+
+What we offer?
+
+Meal tickets
+Christmas Easter and summer monetary bonus
+13th month salary
+Medical packages for employee spouse and children
+Complex sports package with limitless access for the employee
+Private pension
+Annual eyewear compensation
+Tickets reimbursement for opera philharmonic or theater for the employee +1
+2 ski passes/month for local resorts in the winter season
+Increasing number of vacation day based on seniority
+2 sick leave days per semester for medical unavailability (4 days per semester for parents of small children)
+Compensation for bank holidays which fall on a weekend
+Trainings conferences and other educational events access
+Internal training platform
+Kit for working from home (desk chair etc.)
+Gifts for employees and/or children for Easter June 1st Christmas etc.
+
+We offer an international environment with more than 140000 customers around the world who already rely on our expertise in digitization. We are involved in exciting and varied customer projects in the aerospace automotive and transportation consumer products and retail electronics and semiconductors energy and utilities industrial machinery and heavy machinery maritime and medical devices and pharmaceuticals industries. With us you will find a team-oriented work environment comprehensive training options and attractive benefits. Through individual target agreements and diverse career models with specialization options we offer you the opportunity to grow professionally and personally.
+
+We are always challenging ourselves to build a better future. Be part of the most innovative and diverse Digital Minds to develop tomorrow ‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+We'd love to hear from you so apply now on siemens.com!
+
+We look forward to your application! Please use only our career platform which you can access via "Apply now".
+
+Come and learn more about Siemens Software: Mission / Vision and our software portfolio - or visit our homepage.
+
+We value equal opportunities and welcome applications from people with disabilities. At Siemens we believe people who’ve had real experiences dealing with being different will excel as leaders. Let's foster a culture of creativity and innovation. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process to perform essential job functions and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+#DISW
+
+Additional Materials:
+
+Siemens Digital Industries Software Homepage:
+
+https://www.sw.siemens.com/
+
+Siemens Digital Enterprise videos:
+
+https://www.youtube.com/watch?v=k6mVLaUyO4U
+
+Siemens PLM & MOM videos:
+
+https://www.youtube.com/channel/UCYR5Kgzn6suihs56iJ8_vfw
+
+Organization: Digital Industries
+
+Company: Siemens Industry Software S.r.l.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time
