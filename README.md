@@ -11,8 +11,6 @@ From the structured data it was shown that the romanian market for youth is main
 
 ### ANALYSIS OF UNSTRUCTERED DATA (files):
 The word-cloud analysis points to the words ‘experience’, ‘team’ , ‘work’, ‘skills’, ‘development’, ‘knowledge’, ‘support’, ‘data’, ‘business’, ’software’, ‘management’, ‘services’, ‘environment’ and ‘customer’ as being the most present words in the job descriptions analyzed.
-![image](https://user-images.githubusercontent.com/101098099/220906903-3732e71b-cf9d-4517-bf65-cb15392ba2ef.png)
-![Captură de ecran 2023-02-23 142520](https://user-images.githubusercontent.com/101098099/220906996-d81cdac1-3298-4ac6-be8e-0eba10a4a07a.png)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/101098099/220906499-4f5ec5e8-4d49-4404-bb81-b6dd542ea9e6.png">
