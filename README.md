@@ -22,7 +22,7 @@ The word-cloud analysis points to the words ‘experience’, ‘team’ , ‘wo
 
 ### WORD AND CORRELATION NETS: 
 The correlation net portrayed the central nodes to be ‘experience’, ‘team’ and ‘skills’ and the pairs being formed are: experience-team-skills-knowledge-development-english-environment-support-communication-business-management. The combinations of words most encountered are gender-age-color-marital-physical-mental-inclusion.
-![image](https://user-images.githubusercontent.com/101098099/220904363-7726feb5-f039-4e6e-96f2-f21c758f53c2.png)
+![image](https://user-images.githubusercontent.com/101098099/220905558-c7490607-41db-4574-8252-a51b30587d8e.png)
 ![image](https://user-images.githubusercontent.com/101098099/220905343-8de9b31a-5a95-4f90-856d-08e4a4757a03.png)
 
 
