@@ -18,8 +18,7 @@
 ![image](https://user-images.githubusercontent.com/101098099/220897929-16390091-82aa-4d30-bcc4-8fa05cf85f4b.png)
 
 #FREQUENT PAIRS OF WORDS
-
-#The most used pairs of words, called bi-grams, are ‘communication skills’ with 283 appearances, ‘sexual orientation’ with 152, ‘equal opportunity’ and ‘national origin’ with 144, ‘job description’ with 134 and ‘gender identity’ with 130 incidences. 
+The most used pairs of words, called bi-grams, are ‘communication skills’ with 283 appearances, ‘sexual orientation’ with 152, ‘equal opportunity’ and ‘national origin’ with 144, ‘job description’ with 134 and ‘gender identity’ with 130 incidences. 
 #The word ‘skill’ has been found to be preponderantly linked to the following words: ‘communication’, ‘analytical’, ‘interpersonal’, ‘language’, ‘solving’, ‘soft’, ‘management’, ‘presentation’ and ‘english’. 
 #In terms of foreign languages, the most proeminent in the texts are english, german, french, italian and spanish, with english being by far the most searched for language. Moreover,the word ‘receive’ pinpoints to what students/graduates are said to obtain from their employers: ‘consideration’, ‘feedback’, ‘mentorship’. In turn, employees have to deliver things that are associated with words like  ‘unique’, ‘results’, ‘centralized’, ‘client’, ‘exceptional’, ‘excellent’. 
 #Finally, the word ‘bonus’ is used to describe what kind of rewards employees might obtain should they perform well: the most correlated word is ‘access’, meaning that employees get to benefit of access to new facilities or platforms, while other associations to bonuses are ‘transport’, ‘medical’, ‘private’, ‘psychological’ and ‘communication’.
