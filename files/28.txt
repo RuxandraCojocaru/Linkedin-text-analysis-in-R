@@ -1,0 +1,31 @@
+The Junior Automation Engineer is responsible for properly implementing the control system projects under the supervision of the Senior/Lead Engineer. She/he is responsible for the implementation installation modifications testing and validation of control systems and associated instrumentation.
+
+
+MAIN RESPONSIBILITIES:
+
+
+design and detail engineering of instrumentation and control (I&C) and electrical systems of process plants;
+follow-up the execution of the electrical & automation maintenance activities by ensuring that the internal/external services comply with time cost quality and safety & technical standards;
+analysis of the machine performance in order to identify the causes of defects and propose corrective and preventive actions;
+improvement opportunities and maximize machines’ performance;
+installation calibration testing maintenance and repair of automation equipment and systems in various production processes with the supervision of a Senior Automation Engineer;
+performing functional testing of programmed control systems including PLCs HMI and SCADA;
+performing diagnosis evaluation for MCCs and field: all I&C equipment including analog digital pneumatic and electrical controls VFDs.
+
+
+EDUCATION AND EXPERIENCE:
+
+
+Engineering Bachelor’s degree in electrical/automation field.
+
+
+KEY COMPETENCIES:
+
+
+knowledge of computer hardware and configurations;
+proficient knowledge of C programming language or other programing languages;
+knowledge and ability to configure and use DOS batch scripts Windows 10 Windows server ghosting re-imaging processes;
+knowledge of setup and use of routers and switches TCP/IP Profibus;
+knowledge of electrical engineering would be an advantage;
+teamwork (projects to deliver in parallel under the supervision of a Senior/Lead engineer);
+very good knowledge of English language (mandatory).

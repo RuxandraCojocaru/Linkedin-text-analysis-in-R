@@ -1,0 +1,46 @@
+JOIN OUR #1-RANKED DATA PRIVACY COMPANY
+
+We’re looking for an energetic creative and systematic Senior Software Engineer (m / f / d) to join our team located in Odense! Revolutionising an entire industry is exciting but not easy. That’s why we need you! Become a part of our international team and let our enthusiasm infect you as we build the leading consent software!
+
+
+YOUR TASKS
+
+Working in a team consisting of supportive and passionate software engineers (local and remote)
+Take part in designing and developing our external API to be consumed by our partners
+Collaborating with Product Owner and other developers contribute to refinement and planning sessions and participate in team discussions on system architecture and component design
+Contribute to the committed sprint stories enabling the team to complete the set sprint goals on time
+Reviewing other team members’ code providing corrections and feedback in a professional skill-building way ensuring the team itself will improve as well as the quality of deliverables
+
+
+YOU BRING
+
+3+ years of experience in C# writing and deploying scalable high-quality production
+code combined with object-oriented software design abilities
+1+ years of experience writing .NET Core applications
+A passion for designing and building scalable services and infrastructures
+Agile development experience
+Hands-on experience with (any) API gateway is a plus
+Experience developing APIs is a plus
+Experience with Azure or another cloud provider (AWS GCP ...) is a plus
+Personality: smart ethical friendly hard-working and proactive
+
+
+WHY JOIN USERCENTRICS?
+
+Joining Usercentrics means becoming part of a fast-growing diverse and international team of tech enthusiasts and entrepreneurially-minded who build our success story together
+We have offices located in Munich Copenhagen Odense Prague and Lisbon but you can also join us remotely. Our colleagues are working from Belgium Canada Cyprus The Netherlands The United Kingdom and many more locations
+Company culture is important to us - we strive to continuously develop a positive vibrant and inspiring environment that enables everyone to thrive
+Your work-life balance is important to us too so we offer flexible working hours and the opportunity to work from other locations (in accordance with our company policy)
+Get involved! At Usercentrics every employee has a voice as it is extremely important for us to have everybody represented and we see it as a huge benefit for both the company and for the people who work here
+We always remember to have fun along the way both in our day-to-day work and at our regular team events - or online to accommodate current restrictions
+A steep learning curve in a dynamic startup environment with a high career growth opportunity
+
+
+
+ABOUT US
+Usercentrics is a global market leader in the field of Consent Management Platforms (CMP).
+We are driven by our company vision to build a world where user privacy enables a thriving digital ecosystem. Our mission is to provide privacy solutions that empower organizations to embrace data privacy while building trust with their users through freedom of choice. With our product businesses can collect manage and document user consents on websites and apps and achieve full compliance in accordance with global privacy regulations while facilitating high consent rates and building trust with their customers.
+
+Helping clients like Daimler ING Diba and Santander achieve privacy compliance Usercentrics is active in more than 100 countries with 2000+ resellers and handles more than 61 million daily user consents.
+Visit usercentrics.com and cookiebot.com to learn more.
+Usercentrics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race colour religion age sex national origin disability status genetics protected status sexual orientation gender identity or expression. This policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and training.

@@ -1,0 +1,95 @@
+This is an excellent opportunity for an experienced Quality Assurance test analyst with a background in financial software/markets/instruments.
+
+Working within the UnaVista team part of a leading UK investment and financial services company you will be responsible for the QA of regulatory post trade reconciliation and data solutions.
+
+To Be Successful In This Job You Should Have Previous Software Testing Experience And a Confirmed Software Delivery Background Preferably Within Some Of The Following Areas
+
+Regulatory reporting – e.g. MiFIR EMIR (and ideally knowledge of regulations from ESMA FCA and other Regulators and Venues)
+
+Post trade services – e.g. trade confirmations clearing
+
+Matching and reconciliation – Trade Repository / Regulator
+
+Due to the nature of the UnaVista Platform and Solutions technical knowledge and experience will expedite your acclimatization to this position.
+
+Key Responsibilities
+
+QA testing the UnaVista Solutions as per the defined requirements assisting with the creation of documents in conjunction with other Scrum team members.
+
+Complete the internal QA testing (and client facing user acceptance testing) applying appropriate change control practices to mitigate scope creep and overall project risk.
+
+Involved in refinement and improvement of QA processes with the purpose of growing control and efficiency.
+
+Key Behaviours
+
+Adaptable to Agile methodology
+
+Working to agreed project schedule and workload
+
+Accurate and timely reporting of progress and identified issues
+
+Responding to internal and external project partners.
+
+Candidate Profile / Key Skills
+
+2+ years working as a QA professional ideally with experience at either a financial software vendor or financial institution and Higher education ideally in Computer Sciences
+
+Familiar with Agile methodology
+
+Knowledge of SQL (beginner level)
+
+ISTQB Foundation certificate or higher testing certification would be a plus
+
+Java and Selenium knowledge would be a plus
+
+Good financial industry knowledge would be a plus
+
+As a QA test analyst you will liaise on a regular basis with project teams and partners primarily for the purpose of fulfilling the core QA functions. The ability to adapt and scale on demand is essential as you may be required for parallel project engagements or to act as a dedicated resource for a significant/strategic project. Communication and interaction are important to potentially across a wide section of individuals and departments both internally and client-facing.
+
+We are looking for intellectually curious people passionate about the bigger picture of how technology industry is evolving ready to ask difficult questions and deal with complicated scenarios. If you are creative and a problem solver this is the place to be as will be supporting you to fast-forward your career.
+
+Benefits
+
+We believe that remunerating our people with competitive salaries and a range of attractive benefits such as
+
+We maximize each employee’s potential through personal development and through a wide range of learning tools both formal and informal.
+
+25 days’ holiday per year
+
+1 additional day off for your Birthday
+
+Annual wellness allowance
+
+Share Purchase Plan
+
+Medical Health Insurance
+
+Medical Subscription (preventive medical services)
+
+Dental Coverage
+
+Life insurance
+
+Pillar 3 Private Pension
+
+Meal Vouchers
+
+Flexible Benefits
+
+Bookster
+
+Volunteering Events
+
+Team Buildings
+
+At LSEG we believe that creating a diverse and inclusive organisation is fundamental to the way we deliver on our promise of creating essential partnerships and open opportunities. Our open culture is central to how we deliver our purpose – driving financial stability empowering economies and enabling customers to create sustainable growth – in everything we do.
+
+Working with us means that you will be part of a dynamic organisation of 25000 people across 70 countries. However we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce. You will be part of a collaborative and creative culture where we encourage new ideas and are committed to sustainability across our global business. You will experience the critical role we have in helping to re-engineer the financial ecosystem to support and drive sustainable economic growth. Together we are aiming to achieve this growth by accelerating the just transition to net zero enabling growth of the green economy and creating inclusive economic opportunity.
+
+LSEG offers a range of tailored benefits and support including healthcare retirement planning paid volunteering days and wellbeing initiatives.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race religion colour national origin gender sexual orientation gender identity gender expression age marital status veteran status pregnancy or disability or any other basis protected under applicable law. Conforming with applicable law we can reasonably accommodate applicants' and employees' religious practices and beliefs as well as any mental health or physical disability needs.
+
+Please take a moment to read this privacy notice carefully as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you what it’s used for and how it’s obtained your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.

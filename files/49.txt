@@ -1,0 +1,34 @@
+Our client is the creator of one of the world’s fastest and most effective lines of internationally certified internet security software.
+
+Responsibilities
+
+Ensure 1st Level of Support via email phone and remote assistance for our client Enterprise customers in the agreed terms and conditions;
+Make customers and their needs a primary focus of one’s actions; developing and sustaining productive customer relationships;
+Offer alternative and creative solutions to issues/questions where appropriate to prevent disruption in client activities;
+Maintain client confidence and protect operations by keeping client and client’s employee information confidential;
+Contribute to written documentation (Knowledge Base);
+Escalate internally to the next tier of support or other departments while keeping the responsibility of case;
+Meet the SLA requirements and the internal procedural workflow;
+Propose improvements related to procedures workflows etc;
+Timely and accurate reporting on status for assigned tasks;
+Work in 8 hours shifts 24×7.
+
+Requirements
+
+Minimum 1 year of professional experience (technical support field) in the following areas:
+Windows Desktop Family administration: Windows 7/8/10;
+Windows Server Family administration: AD DHCP DNS Remote Services Exchange;
+Server virtualization administration: VMware ESXi Citrix Hypervisor Microsoft Hyper-V RHEV Nutanix;
+Virtual Desktop & App Infrastructure basic administration: Citrix App and Desktop Virtualization VMware Horizon;
+Linux/Unix server basic administration: Installation maintenance upgrade back-up NFS TCP/IP;
+Basic knowledge of TCP/IP networking concepts and hands-on experience;
+Software containers and automation basic knowledge: Docker Kubernetes;
+
+Other Requirements
+
+Degree in Computer Science Engineering or equivalent;
+Result-oriented and good diagnostic skills;
+Efficient time management and team player;
+Quick learner dynamic energetic and customer-oriented;
+Deal effectively with others in antagonistic situations using appropriate interpersonal styles and methods to reduce tension or conflict;
+Demonstrated excellent problem solving/troubleshooting/phone listening skills.

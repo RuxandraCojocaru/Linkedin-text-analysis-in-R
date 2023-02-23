@@ -1,0 +1,25 @@
+We are looking for a Web Developer (Mid level or Senior) to be part of our team.
+
+Our requirements:
+To master technologies such as: AngularJS HTML JavaScript CSS MySql Bootstrap
+Have a minimum of 2-3 years of experience (portfolio presentation with previous projects / link to GIT)
+Know how to use GIT or other code versioning system
+To be passionate about programming to the tip of the ears
+Be willing to learn constantly
+To know English (intermediate/advanced writing and reading level)
+To begin with, he will work from the company's office. Not online.
+
+Responsibilities:
+Development of software applications and websites
+Maintenance on current websites
+Continuous code optimization
+Code development and libraries for future use
+Translate designs or wireframes into code
+To write tests for the code that produces it
+
+What we offer:
+Attractive salary depending on experience
+The chance to learn programming on the spot from some very well trained colleagues
+Relaxed atmosphere and a team of amazing people
+Flexible schedule
+Constant trainings

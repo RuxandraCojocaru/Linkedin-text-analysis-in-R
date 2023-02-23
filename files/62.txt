@@ -1,0 +1,29 @@
+We are Next Up Solutions and we come to the aid of local entrepreneurs with ready-to-use software solutions that save time and resources. We are therefore a product company where the result of our efforts reaches thousands of users in real time.
+We are looking for a fellow tester in the Product Development team with whom we can continue to improve the software already used by thousands of users, to adapt it to the needs of customers by implementing legislative specifications in a fair and practical way.
+We are proud of the fact that we have 5000 companies in our portfolio.
+
+What we were looking for:
+· knowledge and experience in a similar position
+· experience in using and testing a b2b software solution
+· as in-depth knowledge of SQL as possible
+· minimum general knowledge of payroll accounting
+· minimum general knowledge: hardware terminals API programming rules
+· attention to details and the desire for continuous improvement
+· communication and initiative skills
+· analytical thinking oriented towards finding solutions
+· organization, involvement, initiative and the collaborative approach in the team
+
+What will you do:
+· you will test the implementations of your fellow programmers
+· you will document the result of your work in the applications that we use and that help us organize ourselves better
+· you will actively participate in the daily scrum meetings, you will work with the team according to the Agile methodology adapted to the needs of the company
+· you will work directly with the teams of programming analysts and customer support to find the defects of our applications or to find the explanations of the different functioning in different environments
+· you will test applications: desktop web-based (cloud) mobile
+· you will be part of the team that proposes and implements new modern innovative functionalities / applications
+
+We offer you:
+competitive salary
+a dynamic environment where you won't get bored with challenging projects that will help you develop your skills and create new ones
+professional training courses according to training needs
+compensations and benefits that will motivate you to come to the office every day
+office at Unirii in the city center

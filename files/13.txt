@@ -1,0 +1,21 @@
+Software Developer Remote to €43k
+
+Software Developer (Scala Java Apache Kafka) *Remote*. Successful FinTech is seeking a talented Software Developer to join a newly established growing team based in Italy.
+
+As a Software Developer you’ll have the option to join one of three new teams: Trading Partnerships or Platform. No matter which team you are in you will be working on modern FinTech products utilising Scala and Apache Kafka on AWS. You’ll focus on optimisation removing bottlenecks and scaling up the platform to allow for 250k+ users as it was previously built with only 10k users in mind.
+
+The company offices are based in Milan however you can work remotely from anywhere within Europe.
+
+Requirements:
+Previous experience within a Software Developer role using Scala Java or Kafka (must be happy using Scala going forward)
+Good understanding of AWS (or other Cloud technologies)
+Experience with Docker and Kubernetes
+Previous experience with Apache Kafka is highly advantageous
+Fluent in English (Italian desirable)
+Excellent communication and collaboration skills
+
+As a Software Developer you can expect to earn a competitive salary (up to €43k) plus benefits.
+
+Apply today!
+
+Ref: 18206/B/AT/251022

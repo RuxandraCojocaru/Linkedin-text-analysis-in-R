@@ -1,0 +1,35 @@
+Responsibilities
+
+What will you contribute?
+
+Reporting to the QA Manager the Functional QA Engineer creates and executes product test plans to ensure software products meet design specifications and product quality standards. Assists the QA team with process improvements to improve product quality.
+
+Responsibilities & Deliverables:
+
+Your deliverables as a Functional QA Engineer will include but are not limited to the following:
+Design and implement test strategy for each QA deliverable based on business requirements individual input and cooperation with Development Customer Support and Product Management teams
+Contribute to all software testing types like functional regression automation performance
+Provide feedback on the quality of the project/product through meetings testing progress reports and communication with the project team/stakeholders
+Support from a quality assurance perspective the client’s software usage in production
+Designing developing and maintaining automation test scripts
+Creating test cases from product specifications and executing test plans
+Tracks defects from detection to resolution and works with developers to reproduce and resolve defects
+Review product documentation to ensure completeness and accuracy
+Communicate status findings and progress on a regular basis
+Act as a software quality advocate throughout development testing delivery and implementation phases of software development life-cycle
+Help and train new joiners in order to integrate them in the team
+
+Required Experience:
+Experience in software testing or related field
+University degree in Finance Economics Mathematics or relevant experience in the capital markets/financial software field
+Strong financial knowledge related to capital markets is mandatory
+Strong communication skills and openness to collaborate with persons from various departments holding different roles
+Ability to work independently and within a team environment and handle multiple projects simultaneously
+Ability to identify issues analyze implications consider options and evaluate risks
+Effective analytical and problem-solving skills and ability to think ‘out of the box’ for process improvements
+Effective planning and organizational skills with an attention to detail
+Ability to work with specialized software tools; effectively implement and evaluate new processes or plans
+Knowledge of quality assurance methods and techniques including the software development lifecycle
+Preferred knowledge of the Agile software development methodology
+Good written and spoken English
+SQL knowledge is a plus.

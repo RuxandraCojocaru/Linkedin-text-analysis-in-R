@@ -1,0 +1,55 @@
+JOB PURPOSE & KEY OBJECTIVES:
+
+For our Customer Service Department we are looking for experienced AdvancedPay specialists for the ongoing support of our existing customers.
+
+KEY DUTIES/TASKS:
+
+Analyzing activities in order to define specifications for building effective systems capable to meet user requirements
+Configuration of the user administration console in PAISY (Patronus Web) ADP Report & ADP Archiv (DM)
+Provide support to internal and external customers in queries concerning payroll and HR topics within the PAISY system
+Recording and clarification of customers' requests in Siebel CRM
+Analyze the effort involved in resolving/implementing the requested changes and provide estimates
+Provide technically accurate and sustainable resolutions to client reported problems and document these for future reference
+Ensure that the implemented functionality is thoroughly tested and delivered on time
+Help in continuously improving the support service to maintain a high level of customer satisfaction.
+Conduct user training (Web)
+Configuration of time and wage types for our software customers
+Implementation of HR projects in PAISY environment e.g. Optimization of wage Types and time frame styles
+Supporting technical experts by executing transactional tasks through ADP Report (e.g. creating reports based on existing templates)
+Validation and creation/adaptation of individual reports in ADP Report system
+Support the development team during the product development phase (running Pre-Release tests in staging environment in order to detect technical or functional errors/differences before rollout in Production)
+Maintain and contribute to the Knowledge Base library
+Giving advice to clients to optimize their use of the product
+Ability to influence and guide clients to ADP best practice and standard solution adoption
+
+EDUCATION AND EXPERIENCE:
+
+Education: Bachelor’s degree
+Work Experience: 3+ years of experience (Customer Service is an added advantage)
+
+Knowledge
+
+B2-C1 German and English language
+Experience in PAISY parameterization desirable
+Data processing experience
+Experience working with HR Information Systems / CRM Systems will be an advantage
+Knowledge of Payroll and Time Management
+Knowledge of the German income tax social Security and labor
+Experience in the parameterization of wage and salary systems
+Awareness of the positioning of the product in the market place
+Knowledge of HR processes in a company
+General IT know-how; technical understanding
+Human Resources Knowledge
+
+SKILLS
+
+Excellent communication skills and empathy
+Rich in ideas and proactive
+Ability to work both independently and as a team player with a positive attitude
+Striving and self-employed
+Persuasive personality
+Reliable
+Solution and implementation-oriented
+Enthusiastic
+Assertiveness
+Stress resistant

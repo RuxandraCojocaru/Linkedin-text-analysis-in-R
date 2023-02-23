@@ -1,0 +1,43 @@
+Since 2015 Nexttech has proven experience in providing a wide range of staff augmentation and offshore services from initial project estimation to various IT development tasks. We also provide a wide range of onshore services for customers with onsite consulting needs. Our clients are from Central and East European markets and our focus is on state of the art development projects from the banking trading and power sectors.
+
+We are looking for a Java developer fluent in German to be part of a team who is passionate about microservices micro-frontends service-oriented architecture.
+
+Main tech: #Java8 #Java11 (#SpringFramework #SpringWebflux #SpringIntegration #SpringBatch #SpringBoot #SpringData #SpringSecurity etc.) #Hibernate #Jersey #ActiveMQ #RestServices #SOAP #Quartz #Maven #Gradle #OracleSQL #Docker #Azure
+
+Tasks
+Develop and maintain software applications from concept to finish (take part in all application development life-cycle phases).
+Write high quality reusable and readable clean code.
+Update and improve tech stack and implement transversal requirements and small enhancements.
+Optimize applications for maximum speed and scalability.
+Work closely with designers other developers and managers to determine product scope interactions and features.
+Mentor other people provide feedback contribute to improving your team’s processes.
+
+Requirements
+At least 3 years of experience in a similar position (yes minimum 2 and a half years of experience works as well if you are confident enough 😉).
+Our preferred framework is Spring & Spring Boot; we would like you to know it as well.
+We expect you to have a good grasp of Java and JEE internals (such as Classloading Memory Management Transaction management etc.).
+Familiarity with relational databases.
+Familiarity with build processes and dependency management (Maven Gradle).
+Experience with test-driven development.
+You would fit best in our team if you worked in an Agile environment in the past.
+Ability to positively collaborate interact and communicate with your colleagues.
+Fluency in German is a must.
+
+Benefits
+
+A grasp around our culture
+
+Rather than wrapping up some nice words and poke ourselves on the back for how awesome we are we prefer to share the raw answers of what people in Nexttech think is evocative for our culture:
+an organization that "always listens to the feedback from the employees trying to improve based on the input/suggestions"
+a culture that "encourages work-life balance and independence at work"
+where there is "genuine communication & respect between all levels of the company."
+an organization that's "Closer to people."
+"People are nice to each other and ready anytime to offer their help and support."
+a culture that "Makes new people feel welcomed involved in day-to-day decisions and valued for their skill-set right from the beginning."
+a "Culture that promotes psychological safety and speaking your mind without fear."
+
+Come join us and bring your full self to work.
+
+Our promise: A safe environment where you feel respected and valued for who you are. Where your effort is recognized people are open collaborative responsible and fun. A workplace where you have the space to grow through challenging work assignments autonomy flexibility and the support you need.
+
+What makes you a good fit for our team: having great hard skills a collaborative spirit responsible attitude diligence resilience open-mindedness flexibility courage and being supportive with your teammates.

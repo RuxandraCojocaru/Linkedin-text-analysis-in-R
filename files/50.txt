@@ -1,0 +1,36 @@
+Secureworks® (NASDAQ: SCWX) is a global cybersecurity leader that protects customer progress with Secureworks® Taegis™ a cloud-native security analytics platform built on 20+ years of real-world threat intelligence and research improving customers’ ability to detect advanced threats streamline and collaborate on investigations and automate the right actions.
+www.secureworks.com
+We enjoy competitive compensation and benefits packages and reward and recognize our employees for exceptional results. A constant focus on continued learning and growth keeps our team members engaged and excited about “what’s next.” We offer flexible work options when available and emphasize the importance of work-life balance. We know that when our people are rewarded recognized and rejuvenated we win as a team.
+
+The Web Developer supports the Secureworks Adversary Group (SwAG) by developing and maintaining internal projects utilized by SwAG consultants on a daily basis.
+
+The focus areas for this role are the following:
+
+C# (.NET Core) web/API application and HTML/JavaScript UI development in an Azure services deployment.
+Python web application (Flask / Gunicorn) and HTML/JavaScript UI development in an AWS deployment
+
+Role Responsibilities:
+
+Maintain existing application code base for ongoing support
+Develop several new application capabilities
+Identify and resolve gaps in best practices within existing solutions
+Interface with external data sources through REST APIs
+Operate in an Azure App Service and SQL Service deployment
+Close cooperation with Secureworks Adversary Group resources
+Perform other essential duties as assigned
+Requirements:
+
+Minimum of 3 years of experience with C# .NET development
+Minimum of 1 year of experience with Python development
+MVC View API Controller and JavaScript UI development experience
+Experience with Azure Active Directory application integration
+Experience with Azure Web and SQL service deployments
+Preferences:
+
+Knockout.js UI development experience
+OpenXML document and spreadsheet development experience
+PowerBI experience
+Knowledge of common application vulnerabilities (i.e. OWASP Top 10)
+Good technical communication skills both written and verbal; good analytical and problem solving skills
+
+Secureworks a Dell Technologies company is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Secureworks are based on business needs job requirements and individual qualifications without regard to race colour religion or belief national social or ethnic origin sex (including pregnancy) age physical mental or sensory disability HIV status sexual orientation gender identity and/or expression marital civil union or domestic partnership status past or present military service family medical history or genetic information family or parental status or any other status protected by the laws or regulations in the locations where we operate. Secureworks will not tolerate discrimination or harassment based on any of these characteristics.

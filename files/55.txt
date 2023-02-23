@@ -1,0 +1,14 @@
+Job Description:
+6-10 years of Industry experience. Hands on experience on End-to-End Software project development in a network company environment will be added plus.
+* Knowledge of or demonstrated experience with PHH MAC MACSEC experience will be a huge plus.
+* Experienced in Linux kernel and hardware device drivers and modules.
+* Solid experience in debugging platform issue with i2c i2c trace analyzers PCIe
+* Solid experience with hardware and software debuggers e.g Arium BDI GDB
+* Basic knowledge of PPC and X86 assembly code.
+* Knowledge of scripting to be able to design create and run scripts for longevity tests for platform.
+* Knowledge of or demonstrated experience with LAN/WAN communication interfaces Ethernet layer 2 layer 3 technologies.
+* Strong C programming skills and familiarity with large software development projects in an UNIX or IOS environment including experience with source code control systems i.e. ability to search navigate and handle extremely large code base.
+* Motivated self-starter with good communication and organizational skills with demonstrated ability to develop and deliver superior products in a cross-functional team environment under aggressive schedules.
+* Some of the key areas of expertise in addition to Networking domain is platform/System Areas such as kernel bring up kernel driver development platform bring up/ management software and Cloud Networking Technologies.
+* Experience with x86 BIOS uboot will be a plus.
+* Experience with Secure boot/Secure BIOS/Protection will be a plus.

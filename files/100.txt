@@ -1,0 +1,100 @@
+We are searching for a passionate Django Developer to join our 100% Romanian company. If you are interested come and join our team and build new fantastic experiences that help our clients every day. As a Django Developer you will develop maintain and improve all of DontPayFull products.
+
+If you have 1-3 years’ experience with django python html css javascript please check out this other job ad: https://go.dontpayfull.com/django-junior
+
+If you more than 3 years’ experience please continue reading…
+
+MUST HAVE A GENUINE PASSION FOR TECHNOLOGY! PASSION IN EVERYTHING YOU DO!
+At DontPayFull we’ve built an innovative class of technology that helps people to save money while shopping on the Internet. Our product brings together users in the e-commerce ecosystem onto a platform providing greater saving solutions for our happy users.
+The backend team handles designing developing monitoring and tuning our Production and Staging environment Observability Stack Security and Deployment.
+As a Django Developer you have a track record of success. You have experience taking key architectural decisions and performing the research to back up those decisions. You enjoy mentoring and providing support to fellow engineers.
+
+A sneak peek into our infrastructure:
+⇨ We are using cutting edge tech like Python Django Golang Kubernetes Microservices Distributed Tracing RabbitMQ Kafka Celery Relational Databases NoSQL Databases Elasticsearch EFK Stack Sentry and the stack goes on
+⇨ Modular highly available geo-distributed infrastructure
+⇨ Processing more than 23 million of asynchronous tasks per day
+⇨ Crawling more than 21 million pages per day
+⇨ CI & CD using Kubernetes & Docker
+
+YOUR DAY TO DAY
+⇨ Pair with our colleagues to develop new features or projects and improve existing ones
+⇨ Develop with scalability performance and security in mind
+⇨ Align to our team’s coding standards
+⇨ Ensure observability for developed features and projects (prometheus/grafana/EFK)
+⇨ Contribute in brainstorming with our product owners
+⇨ Offer technical support to our internal clients (via slack or zoom)
+⇨ Join our daily sync meeting to discuss blocking issues ideas and connect with your peers
+⇨ Deploy your work (easily) using our in-house tooling
+
+YOUR BACKGROUND THAT LIKELY MAKES YOU A MATCH
+⇨ Hands-on working experience with:
+Python & Django minimum 3 years
+Basic frontend technologies (html/css/js)
+Parallel / concurrent programming
+Relational databases
+Caching/performance tuning
+GIT
+⇨ Experience with scalable applications;
+⇨ Strong debugging skills from client side to server side;
+⇨ Ability to align to existing coding standards;
+⇨ Romanian language - must have
+
+Nice to have:
+⇨ Hands-on experience with:
+Golang
+Docker & Kubernetes
+REST APIs / GraphQL
+Microservices
+Vue.js or any other frontend frameworks
+NoSQL databases
+Apache Kafka
+⇨ Observability stack (prometheus grafana EFK);
+⇨ A solid understanding of High Availability Load Balancing;
+
+And last but not least you know that…
+to achieve the expected results it is necessary to be perseverant and passionate. To enhance your skills it is necessary to go through the process and improve it continuously both through autonomy and initiative and also through the support you will have from our team.
+
+What do we appreciate about a new colleague?
+⇨ Ability to communicate and work in a team
+⇨ Sense of observation
+⇨ Analytical
+⇨ Ability to assimilate new knowledge
+⇨ Proactivity
+
+WHY DONTPAYFULL
+⇨ Our flat company structure empowers engineers to make product decisions
+⇨ We have a collaborative culture where engineers mentor each other
+⇨ Our team members take time for informal conversation to listen to each other and to provide feedback
+⇨ We offer great compensation and benefits package granted according to internal policies:
+Monthly fixed budget for flexible benefits managed in a dedicated platform
+Flexible working hours
+Remote working
+Extra paid leave according to the seniority in the company
+Events for team members
+Learning (books audiobooks trainings)
+Birthday gift (day off or gift)
+Day off for child’s birthday
+
+Our values
+👉 Do It With Passion & Commitment
+👉 Be True to Yourself & Others. Live that truth!
+👉 Innovate with Results
+👉 Be Humble & Open
+👉 Be Better Today Than Yesterday
+
+About our engineering team
+⇨ Our engineering team demonstrates and values technical thought leadership
+⇨ As part of our focus on continuous learning and development we are open to supporting our engineering team to develop its expertise area and soft skills.
+
+Recruitment process - The interview will have 3 stages:
+1. First stage: A 1 h video call with our CTO and Chief People Officer. This will be a discussion to get to know each other talk about your previous experience core values and professional plan and expectations.
+
+2. Second stage: You will complete a test (coding project) offline. After you will submit the test solution there will be arranged a 1 h video call session to discuss about your project and some various technical questions and hypothetical situations.
+
+3. Third stage: Cultural match test (45 min. – 1 h). You will complete this assessment offline.
+After the third stage a last short meeting will be arranged for offer proposal and future administrative topics related to the hiring process.
+We aim to be as transparent as possible therefore you can ask questions about anything at any point. However further details will be provided in each stage of the recruitment process.
+
+NOTE:
+⇨ We thank all applicants for their interest in our ad. We reserve the right to contact only candidates who correspond to the profile described in the recruitment announcement.
+⇨ For candidates selected in the recruitment process following the legislative provisions on GDPR consent for the processing and use of personal data will be required for participation in the recruitment and selection process for the position for which they applied.

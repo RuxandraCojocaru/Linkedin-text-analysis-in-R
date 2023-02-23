@@ -1,0 +1,53 @@
+Description:
+
+The customer is a leading multinational provider of the telecommunication technologies and services.
+
+The product is a network configuration and inventory management system designed for the telecommunications industry. This is a platform for planning designing rearranging and documenting the inventory of complex communication services and networks. It provides a comprehensive view of your services resources and networks and the relationships among them. The system enables the communication carriersto manage their network inventory track current assets develop complex configurations and schedule future resources for wireless wireline voice-based or databased services.
+
+Requirements:
+
+Must have:
+
+Experience in QA 2+ years.
+Automation of Web application using Selenium WebDriver.
+Java SQL xPath XML.
+Tools and technologies: TestNG Maven Git
+Understanding of Continues Integration.
+Experience withBug Tracking System.
+Intermediate+ English level
+
+Nice to have:
+
+Telecom/OSS/BSS background.
+REST SoupUI Java Script experience.
+Experience with application servers:WeblogicJBoss
+Scrum/Agile experience.
+
+Preferences:
+
+JUnit Selenium Grafana
+
+Job Responsibilities:
+
+Be a part of Scrum team.
+Manual and automation testing of Web application and services.
+Maintenance the automation framework.
+Create test documentation.
+Communication with customers.
+Participate in the daily and weekly meetings.
+
+What We Offer
+
+Exciting Projects: Come take your place at the forefront of digital transformation! With clients across all industries and sectors we offer an opportunity to participate in creating market-defining products using the latest technologies.
+
+Collaborative Environment: Expand your skills by collaborating with a diverse team of highly talented people in an open laidback environment — or even abroad in one of our global centers or client facilities!
+
+Work-Life Balance: GlobalLogic prioritizes work-life balance which is why we offer flexible opportunities and options.
+
+Professional Development: Our dedicated Learning & Development team regularly organizes certification and technical / soft skill training to help you realize your professional goals.
+
+Excellent Benefits: We provide our consultants with competitive compensation and benefits
+
+Fun Perks: We want you to love where you work which is why we host sports classes cultural social and team building activities such as sports competitions and end-of-year corporate parties. Our vibrant offices also include dedicated GL Zones and rooftop decks where you can drink coffee or tea with your colleagues over a game of table football or darts!
+
+About GlobalLogic GlobalLogic is a leader in digital engineering. We help brands across the globe design and build innovative products platforms and digital experiences for the modern world. By integrating experience design complex engineering and data expertise—we help our clients imagine what’s possible and accelerate their transition into tomorrow’s digital businesses. Headquartered in Silicon Valley GlobalLogic operates design studios and engineering centers around the world extending our deep expertise to customers in the automotive communications financial services healthcare and life sciences manufacturing media and entertainment semiconductor and technology industries. GlobalLogic is a Hitachi Group Company operating under Hitachi Ltd. (TSE: 6501) which contributes to a sustainable society with a higher quality of life by driving innovation through data and technology as the Social Innovation Business.

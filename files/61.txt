@@ -1,0 +1,20 @@
+About us
+ZeroBounce is an award-winning email verification and deliverability platform. The service removes email typos nonexistent and abusive email accounts spam traps and other risky email addresses. With its diverse suite of tools ZeroBounce supports the delivery of transactional and marketing emails and improves inbox placement.
+ZeroBounce operates a military-grade security infrastructure ensuring customer data is protected at the highest levels.
+With more than 7 billion emails validated to date the company serves 150000+ businesses in 190+ countries and adds up to 200 new clients every day. Marketers using email lists validated by ZeroBounce report a 98%+ accuracy rate and maintain an excellent sending reputation.
+In 2019 ZeroBounce took no. 851 on the Inc. 5000 list of the fastest-growing private companies in the United States. One year later ZeroBounce rose to number 40 on the list. In 2021 ZeroBounce was number 9 on the Inc. 5000 Regionals list of the fastest-growing companies in Florida and number 487 on the national Inc. 5000 list.
+SMTP Deliverability Specialist
+We are looking for SMTP Deliverability Specialist to join our team in Romania. This is a great opportunity to be at the forefront of the development of a fast growing company catering to tens of thousands of clients including many Fortune 500 companies.
+Requirements
+Managing the Deliverability and working closely with Compliance Team
+Planning and supervising company email infrastructure - taking direct responsibility for Zerobounce reputation
+To-go person for our Support Team (helping customers is what I do enjoy more than anything)
+Mitigating daily issues
+Supervising internal Deliverability processe
+Optimizing configuration of sending domains
+Performing campaign reviews
+Manage email deliverability projects across the company
+Serve as a subject-matter expert on email deliverability
+Analyze investigate troubleshoot document and track Deliverability support cases and service engagements from initial response through resolution
+Maintain solid relationships with various Email Service Providers
+Maintain solid relationships with Anti-Spam/Anti-Abuse Organizations

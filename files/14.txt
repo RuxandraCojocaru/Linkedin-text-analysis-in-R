@@ -1,0 +1,70 @@
+About MetaMask
+
+We’re building for a future where the internet and world economy empowers people through interactions based on consent privacy and free association. Where both communities and individuals flourish. To accomplish that we’re working hard to make web3 accessible for everyone.
+
+MetaMask is both a crypto wallet and a gateway to the decentralized web. Our tools help people create communities play video games access financial services make payments invest in assets protect against economic turmoil and more. Our browser extension and mobile platforms meet the needs of millions of users and developers across the world.
+
+Originally a humble key manager today MetaMask serves over 30 million monthly active users as a decentralized application development platform an aggregator of decentralized cryptocurrency exchanges and a decentralized identity manager.
+
+About The Team
+
+Our user base is rapidly growing and each of our users places an immense amount of trust in MetaMask as a tool that manages and wields their digital authority controlling assets identities and more. It is of highest importance to us that we keep our users as safe and secure as possible. Our Security team ensures that we deliver on this commitment.
+
+About The Role
+
+MetaMask has experienced explosive user growth over the past year as a cryptographic key manager and web3 application development platform. As this user base continues to grow an immense amount of trust is being placed in MetaMask as a tool that manages and wields their digital authority controlling assets identities and more. It is of highest importance to us that we keep our users as safe and secure as possible.
+
+We are looking for a detail-oriented Quality Assurance tester who will work closely with the Applications Security Engineers to help engineers patch security issues with confidence.
+
+What you will do:
+Ensure any third-party security report has reproducible steps and is reproducible in the environment labeled within the report (ie: prod staging).
+Ensure internal security reports with mitigations are correct with their testing.
+Validate that patches actually fixes the reported vulnerabilities.
+Document and effectively communicate testing results with PSRs Selenium or other.
+Participate in weekly meetings as necessary.
+Work with engineers on security related issues.
+
+What we are looking for:
+3+ years of software testing experience.
+A track record of proven working experience in a QA environment
+Experience debugging a ReactNativeJS and ReactJS codebase
+Experience with open-sources test frameworks including Selenium/Webdriver Appium
+Excellent problem-solving skills and sharp attention to detail.
+Solid written and verbal communication skills.
+Familiarity with the Ethereum blockchain and Decentralized Applications.
+Understanding of testing principles and concepts.
+Enthusiasm for shipping high-quality code and helping peers do the same.
+Proactiveness and be self-driven to be successful working in a remote environment.
+Understanding of web development practices and terminology.
+A belief in our mission and values.
+
+Bonus points:
+Blockchain expertise.
+Previous experience working with Security teams.
+You’re a MetaMask user!
+
+About ConsenSys
+
+Our mission is to unlock the collaborative power of communities by making Web3 universally easy to use access and build on.
+
+Working with ConsenSys puts you at the forefront of an evolving paradigm transforming our society for the better. We fundamentally believe blockchain is the next generation of technology that can lay the foundation for a more just and equitable society.
+
+Blockchain tech is just over 10 years old. Ethereum itself is still a toddler and we’re far from reaching our full potential. You’ll get to work on the tools infrastructure and apps that scale these platforms to billions of users.
+
+You’ll be constantly exposed to new concepts ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem. ConsenSys alumni have moved on to become tech entrepreneurs CEOs and team leads at tech companies.
+
+Why join ConsenSys? Here are some of the perks of being part of a unique organization like ConsenSys:
+
+One of the most recognized tech companies in the blockchain ecosystem globally. A work experience at ConsenSys is a tremendous reference for your future career. ConsenSys alumni have moved on to become tech entrepreneurs CEOs and team leads at tech companies.
+
+The forefront of a revolution. We fundamentally believe blockchain is a next generation of technology that can lay the foundation for a more just and equitable society. You can be a part of building the digital economy of tomorrow and radically transforming our society for the better.
+
+A dynamic startup environment with deep roots. We are one of the earliest blockchain companies and a leader in the space. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem.
+
+Deep technical challenges. Blockchain technology is just over 10 years old. Ethereum itself is still a toddler. There is much to be done before these platforms can scale to the order of millions or billions of users. We are building the tools infrastructure and applications l that are pushing the technology forward.
+
+Continuous learning and improvements. You’ll be constantly exposed to new concepts ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game.
+
+ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race color national origin ancestry sex gender gender identity or expression sexual orientation age genetic information religion disability medical condition pregnancy marital status family status veteran status or any other characteristic protected by law.
+
+ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here.

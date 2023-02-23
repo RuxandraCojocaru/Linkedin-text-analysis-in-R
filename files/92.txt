@@ -1,0 +1,20 @@
+PFS Control Cooling is responsible for developing the control and command functions of the cooling system.
+In collaboration with System Architecture PFS Control Cooling is responsible for producing the functional specifications of the cooling system as well as implementing and validating the algorithms.
+Participate in the realization and implementation of the necessary calibrations for the cooling system
+Participate in the creation of the validation plan and adapt the system requirements to the configuration of the developed vehicle.
+
+Expected profile:
+Education/Studies: Higher technical studies (Automotive Robotics, Automatic, Mechatronics, Thermotechnics, Fluid Engineering, Thermodynamics, Aerospace)
+Experience/knowledge level:
+Experience as LIS PDE System validation specialist Thermal performance specialist
+Knowledge of engineering diagnostics (DDT2000)
+Knowledge of thermodynamic fluid engineering
+Knowledge System engineering requirements management
+Experience in system validation activity
+
+Competences/Abilities/Linguistic level:
+English and/or French: intermediate level
+Technical skills
+Ability to analyze, synthesize and report
+Proactive attitude (risk management anticipation)
+Communication skills

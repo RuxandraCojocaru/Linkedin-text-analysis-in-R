@@ -1,0 +1,28 @@
+The Network Administrator’s role is to ensure the stable operation of the computer networks. This includes planning developing installing configuring maintaining supporting and optimizing all network hardware software and communication links.
+
+Responsibilities:
+Maintain essential IT operations including operating systems security tools applications servers email systems (Google Workspace) laptops desktops software hardware printers.
+Installs and maintains network file servers and network operating systems; ensures that backup copies of all files are routinely made and securely stored at separate locations; maintains system documentation.
+Diagnoses problems with network equipment and performs equipment repair or upgrades when appropriate.
+Installs configures and maintains multi-user software to be accessed from file servers.
+Administer and maintain end user accounts permissions and access rights.
+Installs configures and maintains network cabling and other networking equipment such as hubs switches and UPS.
+Oversee installation configuration maintenance and troubleshooting of network connected end-user hardware software and peripheral devices.
+Manage security solutions including firewall anti-virus and intrusion detection systems.
+Works in close cooperation with Systems Administrator to facilitate management of computer labs installing any software needed.
+Orders software hardware and other supplies as required for the institutional computer network personal computers and computer labs.
+Works with System Administrator and General Director in planning installation and documentation of network topology.
+Assists System Administrator with maintenance of VOIP phone system.
+Performs other related duties as assigned.
+
+Requirements:
+Associate degree in computer science data processing or related field (is a plus).
+Three to five years of networking administrator experience.
+Operational knowledge of Windows Server and Active Directory.
+Ability to install software and hardware on networking equipment.
+Familiarity with a variety of networking and personal computer software.
+Ability to troubleshoot and perform routine maintenance on servers computers and peripheral equipment.
+Ability and desire to work as a member of a team analysis judgment attention to detail commitment to the college dependability informal communication initiative knowledge of work planning and organization sensitivity technical/professional self development work standards.
+
+Working Program: from Monday until Friday 08:00/09:00 - 16:00/17:00.
+Work will generally be performed using computer equipment in an indoor office environment.

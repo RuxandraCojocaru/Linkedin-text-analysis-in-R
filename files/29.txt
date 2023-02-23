@@ -1,0 +1,20 @@
+You might be our missing piece if you have:
+Plus 5 years of experience in development with at least 2 years of hands on experience working with Python
+Experience with PostgreSQL SQLAlchemy
+Previous experience with AWS Lambda API Gateway & Lamda Cron Jobs
+Excellent English skills
+Previous client facing experience
+Experience working both in teams and independently
+A sense of belonging while reading about our culture
+
+We would be thrilled if you have:
+Experience with Fast API
+Familiarity with various testing tools
+Familiarity with concepts of MVC Mocking ORM and RESTful
+
+
+We will be working together on:
+Consulting with clients and offering them the best solutions
+Implementing security and data protection
+Leading the line with latest technologies
+Solving bugs and optimizing code

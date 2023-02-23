@@ -1,0 +1,26 @@
+Operative is a world leading revenue accelerant for media companies around the world. No other software company in AdTech space brings a comparable depth of experience to create truly innovative software that performs across all platforms revenue models and business units. We provide software based solutions which helps clients manage advertisements both in the linear (TV) and digital space. We have been in the market for over two decades and have 1100+ employees with 12 offices spread across the globe.
+Operative is proud to play a pivotal role in the way advertising is bought sold and managed across media industry.
+We have developed a fully paid 7 weeks QA Bootcamp program starting early November 2022 in Craiova where you will learn and develop your QA skills together with our mentors.
+
+You will deepen your knowledge in:
+- Planning and designing tests using a deep understanding of the business logic of complex systems.
+- Executing tests in multiple environments to ensure the system’s quality from development to production
+- Using well known testing tools frameworks and query languages.
+- Acting in a multinational Agile-Scrum working environment.
+
+What you need:
+- Excellent written interpersonal and verbal communication skills in English
+- Bachelor's degree in Computer Science Software Engineering or a related field.
+- A proactive Team Player always striving for excellence in everything you do always searching for a way to be/do better.
+- Super focused on getting things done finding a way when others only see the challenges.
+
+Not a must but highly appreciated:
+- Experience in testing Server-Client applications.
+- Experience in API testing.
+- Experience in working and querying both SQL and NoSQL databases (Oracle / MySQL / MongoDB).
+- Experience working with Test Management tools (TestRail / HP ALM / Microsoft Test Manager).
+- Experience tracking defects to closure by using well known tracking bugs tools (JIRA / HP ALM).
+- ISTQB certification / QA Course graduate.
+
+
+Operative cares about your privacy and protecting your data. By submitting an application for a position with Operative you acknowledge that you have read the following and consent to how Operative treats your data: 1) the Candidate Privacy Policy available at https://www.operative.com/candidate-privacy-notice/ and 2) the Candidate Notice for Data Transfer and Retention available at https://www.operative.com/candidate-notice/.
