@@ -17,7 +17,7 @@ The word-cloud analysis points to the words ‘experience’, ‘team’ , ‘wo
 </div>
 
 
-#### FREQUENT PAIRS OF WORDS: 
+### FREQUENT PAIRS OF WORDS: 
 - The most used pairs of words, called bi-grams, are ‘communication skills’ with 283 appearances, ‘sexual orientation’ with 152, ‘equal opportunity’ and ‘national origin’ with 144, ‘job description’ with 134 and ‘gender identity’ with 130 incidences. 
 - The word ‘skill’ has been found to be preponderantly linked to the following words: ‘communication’, ‘analytical’, ‘interpersonal’, ‘language’, ‘solving’, ‘soft’, ‘management’, ‘presentation’ and ‘english’. 
 - In terms of foreign languages, the most proeminent in the texts are english, german, french, italian and spanish, with english being by far the most searched for language. 
