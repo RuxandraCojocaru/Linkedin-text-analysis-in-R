@@ -11,7 +11,11 @@ From the structured data it was shown that the romanian market for youth is main
 
 ### ANALYSIS OF UNSTRUCTERED DATA (files):
 The word-cloud analysis points to the words ‘experience’, ‘team’ , ‘work’, ‘skills’, ‘development’, ‘knowledge’, ‘support’, ‘data’, ‘business’, ’software’, ‘management’, ‘services’, ‘environment’ and ‘customer’ as being the most present words in the job descriptions analyzed.
-![image](https://user-images.githubusercontent.com/101098099/220897929-16390091-82aa-4d30-bcc4-8fa05cf85f4b.png)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/101098099/220906499-4f5ec5e8-4d49-4404-bb81-b6dd542ea9e6.png">
+</div>
+
 
 #### FREQUENT PAIRS OF WORDS: 
 - The most used pairs of words, called bi-grams, are ‘communication skills’ with 283 appearances, ‘sexual orientation’ with 152, ‘equal opportunity’ and ‘national origin’ with 144, ‘job description’ with 134 and ‘gender identity’ with 130 incidences. 
