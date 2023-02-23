@@ -22,11 +22,11 @@ The word-cloud analysis points to the words ‘experience’, ‘team’ , ‘wo
 
 ### WORD AND CORRELATION NETS: 
 The correlation net portrayed the central nodes to be ‘experience’, ‘team’ and ‘skills’ and the pairs being formed are: experience-team-skills-knowledge-development-english-environment-support-communication-business-management. The combinations of words most encountered are gender-age-color-marital-physical-mental-inclusion.
-![image](https://user-images.githubusercontent.com/101098099/220905558-c7490607-41db-4574-8252-a51b30587d8e.png)
-![image](https://user-images.githubusercontent.com/101098099/220905343-8de9b31a-5a95-4f90-856d-08e4a4757a03.png)
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/101098099/220905558-c7490607-41db-4574-8252-a51b30587d8e.png">
 </div>
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/101098099/220905343-8de9b31a-5a95-4f90-856d-08e4a4757a03.png">
 </div>
@@ -34,5 +34,8 @@ The correlation net portrayed the central nodes to be ‘experience’, ‘team�
 ### TOPIC MODELLING: 
 Using topic modelling more clusterizations have been tried in order to identify the best way of grouping words.Topic modelling findings recommended the presence of four main clusters of topics covered in job descriptions.
 
-![image](https://user-images.githubusercontent.com/101098099/220899618-6b6909d4-3c34-48e4-b09d-20ed827b907f.png)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/101098099/220906199-2da6cfb5-6930-408c-81ff-a3890a67cba3.png">
+</div>
+
 The first cluster is linked with words that indicate the business sector as its main topic. The second cluster puts emphasis on soft skills, whereas the third one concentrates around the software industry and the fourth one seems to refer to hardware.
