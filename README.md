@@ -23,7 +23,8 @@ The word-cloud analysis points to the words ‘experience’, ‘team’ , ‘wo
 ### WORD AND CORRELATION NETS: 
 The correlation net portrayed the central nodes to be ‘experience’, ‘team’ and ‘skills’ and the pairs being formed are: experience-team-skills-knowledge-development-english-environment-support-communication-business-management. The combinations of words most encountered are gender-age-color-marital-physical-mental-inclusion.
 ![image](https://user-images.githubusercontent.com/101098099/220904363-7726feb5-f039-4e6e-96f2-f21c758f53c2.png)
-![image](https://user-images.githubusercontent.com/101098099/220899522-07f3bc63-037f-4e00-aa6e-117a9d1178e8.png)
+![image](https://user-images.githubusercontent.com/101098099/220905343-8de9b31a-5a95-4f90-856d-08e4a4757a03.png)
+
 
 ### TOPIC MODELLING: 
 Using topic modelling more clusterizations have been tried in order to identify the best way of grouping words.Topic modelling findings recommended the presence of four main clusters of topics covered in job descriptions.
