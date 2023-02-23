@@ -1,0 +1,39 @@
+Do you want to be delivering one of Norway's most important projects? You will build solutions that help save lives every day.
+
+You will contribute to the implementation of our system delivery and learn to be a solution expert.
+
+We are looking for a full-stack  developer familiar with Windows Server SQL Server and  .NET.
+
+What will you be doing?
+
+As a full-stack Software Developer :
+
+Development of new functionality and maintenance on our transport & logistics product suits
+Contribute to accurate time estimations of new features and re-factoring
+Code review of other team member’s work
+Review test cases and assist testers by recommending test cases for existing features and new functionality
+
+What would you need to know?
+
+You would likely be successful in this role if you:
+
+Proven experience working within scrum teams consisting of 5-10 members working and planning in an agile environment
+C# development
+.NET Framework
+HTML5/CSS Javascript  AngularJS and JQuery SQL
+DevOps tools Strong English and communication skills both written and spoken
+Previous experience working in transportation & logistics applications will be a plus.
+
+About Locus Solutions AS
+
+Locus is the market leader in products and services for the Nordic transport industry emergency services security value and assistance companies with a common goal: To make everyday life easier for our customers whether it is on the road or in the office.
+
+Here we deliver solutions where factors such as high availability stable and efficient communication and high security are of crucial importance. We are a total of 53 employees in Norway distributed at our head office in Sandefjord and in Lysaker. Read more about Locus at www.locus.no
+
+About Enghouse System Limited
+
+In 2013 Locus Solutions AS was acquired by Canadian Enghouse Systems which is listed on the Toronto Stock Exchange TSX: ESL. Enghouse Systems Limited is a Canadian software and service company established in 1984. Headquartered in Markham Toronto.
+
+Enghouse covers three divisions: Enghouse Interactive Enghouse Networks and Enghouse Transportation which specializes in comprehensive communication solutions. For more information see our website - https://www.enghouse.com
+
+We thank all applicants for their interest. Enghouse Systems is an equal opportunity employer. Severely disabled applicants with equal qualification will be given particular consideration.

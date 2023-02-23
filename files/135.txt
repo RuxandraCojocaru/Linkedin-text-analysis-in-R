@@ -1,0 +1,41 @@
+We’re Looking for Experienced Professionals to Join Our Team!
+
+At Suvoda we’re not only passionate about the work that we do and the impact that it has on human lives but we’re passionate about the people who make it happen! Every day it is our priority to bring in talented and motivated individuals and create a workplace that drives engages and retains them.
+
+What Makes Suvoda a Great Place to Work?
+
+Here Are Just a Few Highlights
+
+Your colleagues: You’ll be surrounded by smart friendly team players that truly care about the work they do and there are plenty of happy hours and teambuilding events to connect outside work
+The flexibility: Suvoda creates the perfect environment for people to integrate their work and life by offering flexible working hours and the tools to work from home as needed
+The growth and innovation: As part of a growing team you’ll have lots of opportunities for career development and be exposed to the latest technologies due to our focus on remaining innovative
+The office: Our newly renovated modern office space is located in the city center and is equipped with comfortable work spaces collaborative gathering areas and modern technology that easily connects you to all of our global offices
+The benefits: You’ll have access to a robust benefits package like a top subscription from Romania’s top healthcare provider meal vouchers a fitness stipend and competitive salaries with bonus plans
+The industry: By working in clinical trials you’’ll be part of a challenging and rewarding industry that will allow you to develop your skills quickly while doing your part to change the world!
+
+What Should You Expect?
+
+Your Role Will Include
+
+As a Software Developer you’ll be part of a six- to nine-person cross-functional international project team working together to build web applications used by pharmaceutical and biotech clients during the clinical trial process.
+
+Design develop and support clinical trial software with emphasis on patient safety and integrity of clinical study data
+Review product requirements and verify that all requirements can be implemented
+Assist with the creation of technical design and implementation documentation
+Design and code software applications and fix defects
+Provide unit testing coverage for delivered code
+Work with others to ensure timely delivery of high-quality code
+Manage software deployment into all environments and complete all required documentation
+Assist support team with troubleshooting and resolution of production issues
+Perform other related duties as required
+
+Requirements
+Bachelor’s degree or equivalent experience
+3+ years of experience in ASP.NET MVC or ASP.NET Core with focus on backend development
+Good knowledge of C# .Net and SQL
+Good understanding of programming principles
+Ability to design develop and support software components with low complexity
+Excellent problem-solving skills and learning capability
+Excellent time management and organizational skills
+Strong oral and written communication skills
+Bonus: .NET Core/.NET 5+ distributed systems Docker Kubernetes Jenkins

@@ -1,0 +1,48 @@
+Job Description:
+
+Life at Grab:
+
+At Grab every Grabber is guided by The Grab Way which spells out our mission how we believe we can achieve it and our operating principles - the 4Hs: Heart Hunger Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get to Know the Team:
+
+The team’s main goal is to deliver high-quality datasets to serve Machine learning models and generate useful information to improve the map. The envisioned end result based on shared effort with other teams is the best SE-Asia map in the world to be used on all Grab products.
+
+We combine geographical knowledge with database knowledge throughout our processes.
+
+We also support the development of innovative highly scalable models through deep research and advanced analysis so that we make our products intelligent and delight our customers.
+
+Get to Know the Role:
+
+We are looking for a Data Analyst to help us build and maintain high-quality datasets for ML purposes. We believe a successful candidate has basic SQL knowledge but if you believe you have what it takes then we’d love to hear from you either way. In return you will get an opportunity to resolve real-world problems that 620 million people face across the region.
+
+The Day-to-Day Activities:
+
+You will find patterns and errors in the data using SQL queries
+Run statistics to review the progress of the project using SQL queries
+You are accountable for manipulating various datasets for Machine Learning purposes
+Generate useful map data for other teams within Grab
+You will write and maintain technical documentation relevant to the project
+Collaborate with other teams within our company and with other collaborators
+Participate in planning and estimation of efforts to implement test and maintain features
+
+The Must-Haves:
+
+SQL beginner: SELECT column/ multiple/ distinct columns simple WHERE clauses use alias SUM COUNT JOIN ST_Intersectsm etc.
+Ability to analyze large datasets using SQL
+Ability to write comprehensive reports
+Experience with MS Office
+Attention to detail
+Fluency in English
+Fast learner and adaptable to changing environment
+
+The Nice-to-Haves:
+
+Basic knowledge of Python: problem-solving and asking questions understanding why the code works (or doesn’t) strings lists loops etc.
+Experience with JOSM QGIS or other related GIS technologies
+Knowledge of OpenstreetMap
+Knowledge of mapping products/technologies
+
+Our Commitment:
+
+We are committed to building diverse teams and creating an inclusive workplace that enables all Grabbers to perform at their best regardless of nationality ethnicity religion age gender identity or sexual orientation and other attributes that make each Grabber unique.

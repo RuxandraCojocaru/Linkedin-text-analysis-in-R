@@ -1,0 +1,15 @@
+DISESO is a young team at the beginning of its journey. The company's mission is focused on the automation of work processes in medical, transport and real estate companies.
+We are looking for a colleague willing to grow with us.
+Available position: Junior PHP Developer (Full time)
+Requirements:
+- Basic knowledge of the PHP programming language (MVC structure + CRUD);
+- Minimum knowledge of HTML, CSS and Bootstrap;
+- Knowledge of working with databases (SQL);
+- Knowledge of AJAX JavaScript RESTfull API etc (an advantage)*;
+- Faculty in the field;
+Benefits:
+- The possibility of professional development through periodic feedback;
+- Participation in training and development courses in the field;
+- The possibility of remote work;
+
+If you consider yourself suitable, we are waiting for your CV to the address cristi@diseso.ro

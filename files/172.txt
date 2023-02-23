@@ -1,0 +1,34 @@
+We are looking for a senior software engineer to work as part of our team in SPPA-T2000 power plants software solution. The individual must be a team-player and willing to function as a developer and support person to meet the goals of the team working in close collaboration with software engineers and testers from other countries.
+
+SPPA-T2000 is a proven universal control system that has been deployed in power plants since 1994. Thanks to its flexible system structure it has been installed in numerous different power plants of every type and capacity. Through the use of standard hardware and software the Siemens expertise in process engineering and the concept of “continuous innovation” SPPA-T2000 had become the world’s leading control system in just a few years.
+
+The challenge
+
+You will be involved in the project through all stages from software design implementation to maintenance
+You will implement the requirements and test the code (unit testing)
+You will keep the technical documentation (requirements specifications functional specifications and design)
+
+The candidate
+
+Someone who has 10 years experience with C / C++ / C# programming languages and knows Linux Operating System
+A person who is familiar with the software development process Configuration Management and Software Architectures
+It would be nice to have basic knowledge of Monitoring and Controlling Systems Power-Plants Engineering Systems and Java programming language
+Must be available to travel to Germany occasionally
+Needs excellent Romanian and English skills
+German skills good to have
+
+About Us
+
+We’re Siemens. A collection of great minds who are all making the future. You could be one of us. Our primary objective is to ensure maximum availability of control systems even beyond the lifecycle of an individual system or individual components thereby safeguarding the investments of our customers over the long term.
+
+Join us!
+
+At Siemens we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+Organization: Advanta
+
+Company: Siemens S.R.L.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time

@@ -1,0 +1,93 @@
+Job Description
+
+We are Siemens
+
+Siemens Digital Industries Software is a leading provider of solutions for the design simulation and manufacture of products across many different industries. Formula 1 cars skyscrapers ships space exploration vehicles and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software.
+
+The promise of a digital future…today. With the digital twin Siemens Digital Industries Software blurs the boundaries between the virtual and physical hardware and software design and manufacturing worlds. For more information about us visit - https://www.youtube.com/watch?v=k6mVLaUyO4U
+
+What You’ll Be Doing
+
+As a Product & Solution Security / Cyber Security Expert for Siemens Simulation & Test Solutions you will be required to:
+
+Ensure that Architecture & Design of the software components meets the required security standards following a Secure Development Lifecycle throughout the process
+Actively engage in various activities right from requirements analysis to software construction in order to build necessary security measures e.g. using methods like Threat & Risk Analysis Secure Coding etc.
+Closely collaborate with our R&D department to identify security weaknesses in our software early in the design process and consult on mitigations
+Drive and participate in various verification & validation activities like Penetration Testing and Fuzz Testing to identify weaknesses and vulnerabilities in our existing software in collaboration with our QA/QC engineers
+Proactively monitor for potential vulnerabilities within the developed or 3rd party software components using well-defined methods & tools suggest mitigations and contribute to planning upgrades or patch rollout while achieving a balance between business needs budget and security risk
+Work with the R&D and DevOps teams to ensure all build environments are secure and ensure best practices are in place to protect against supply chain attacks
+Roll out automated SAST and DAST tools to our various software components and actively oversee issue management
+Contribute to security best practices and definition or update of relevant methods and techniques in the form of publications white papers and guidelines.
+Advise the Management on upcoming tools & technology trends as well as new threats related to cyber security
+Coach and mentor and educate development teams regarding secure software design approaches technologies tools methods and various cyber security aspects
+
+Expected Profile
+
+Technical Skills
+
+Degree in Computer Science electrical engineering or similar
+At least three years of practical experience in software engineering
+Security skills
+
+Soft Skills
+
+Ability to communicate on technical topics esp. software engineering related
+
+What we offer?
+
+Meal tickets
+Christmas Easter and summer monetary bonus
+13th month salary
+Medical packages for employee spouse and children
+Complex sports package with limitless access for the employee
+Private pension
+Annual eyewear compensation
+Tickets reimbursement for opera philharmonic or theater for the employee +1
+2 ski passes/month for local resorts in the winter season
+Increasing number of vacation day based on seniority
+2 sick leave days per semester for medical unavailability (4 days per semester for parents of small children)
+Compensation for bank holidays which fall on a weekend
+Trainings conferences and other educational events access
+Internal training platform
+Kit for working from home (desk chair etc.)
+Gifts for employees and/or children for Easter June 1st Christmas etc.
+
+We offer an international environment with more than 140000 customers around the world who already rely on our expertise in digitization. We are involved in exciting and varied customer projects in the aerospace automotive and transportation consumer products and retail electronics and semiconductors energy and utilities industrial machinery and heavy machinery maritime and medical devices and pharmaceuticals industries. With us you will find a team-oriented work environment comprehensive training options and attractive benefits. Through individual target agreements and diverse career models with specialization options we offer you the opportunity to grow professionally and personally.
+
+We are always challenging ourselves to build a better future. Be part of the most innovative and diverse Digital Minds to develop tomorrow ‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+We'd love to hear from you so apply now on siemens.com!
+
+We look forward to your application! Please use only our career platform which you can access via "Apply now".
+
+Come and learn more about Siemens Software: Mission / Vision and our software portfolio - or visit our homepage.
+
+Additional Materials:
+
+Siemens Digital Industries Software Homepage:
+
+https://www.sw.siemens.com/
+
+Siemens Digital Enterprise videos:
+
+https://www.youtube.com/watch?v=k6mVLaUyO4U
+
+Siemens PLM & MOM videos:
+
+https://www.youtube.com/channel/UCYR5Kgzn6suihs56iJ8_vfw
+
+#DISW
+
+Organization: Digital Industries
+
+Company: Siemens Industry Software
+
+Job Type: Full-time
+
+Organization: Digital Industries
+
+Company: Siemens Industry Software S.r.l.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time

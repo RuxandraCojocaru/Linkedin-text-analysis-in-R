@@ -1,0 +1,70 @@
+Meet the team:
+BearingPoint Products is a complete product development team where every colleague contributes to our product's success end to end. That means we cover areas like Product Management UI/UX Engineering Testing and Maintenance. Innovation is the key so you will work with cutting-edge technologies and the latest solutions stack (Angular React Native node.js C# SAP UI5 and many others on SAP BTP or Microsoft Azure clouds) to achieve your career goals.
+
+The approach is based on collaboration communication knowledge sharing and support therefore come join us and be part of the tech community inside our firm.
+
+
+Profile:
+4+ years of experience in SQL JavaScript/TypeScript JSON REST - Service development
+Real production experience with dedicated Node.js backend frameworks
+Familiar with various design and architectural patters
+Understanding fundamental design principles behind a scalable application
+Creating database schemas that represent and support business processes
+Skill for writing reusable components
+Understanding accessibility and security compliance
+Proficient in fundamental design principles behind a scalable application
+Strong understanding of DB concepts and experience with Sequelize
+Version Control – GIT
+Good to have: HANA experience
+Good analytical and problem-solving skills
+Ability to meet tight deadlines
+Attention to details
+Excellent written and spoken English
+
+Role:
+Take architectural decisions regarding API developments
+Participate in the development and maintenance of the software applications
+Build manage and support various components of infrastructure
+Focus on continuous integration and continuous delivery of our core products
+Setup monitor and backup development and test environments
+Design and implement business functionalities (Node.js/SQL)
+Define the build and release process and implement them in all environments
+Provide support for existing applications
+Find solutions for improving the application
+Perform code reviews
+Ensuring high performance of applications and providing support
+Coaching junior developers
+Working in a multicultural team
+Travel occasionally to Europe at the client's site
+
+Offer:
+Attractive compensation package:
+Fixed salary compensation along with Yearly Evaluation and performance-related bonus scheme;
+Meal Tickets Easter and Christmas Gift Vouchers;
+Seniority Bonus and Referral Bonus;
+Health and Well-being:
+WorldClass Gym Discounts and 7Card Partnership;
+Private Medical Subscription for employees and family (children spouse/ life partner);
+Life and Accident Insurance;
+Personal and professional development:
+German/ French Language Courses at any level;
+Complete training & certification curricula available (tailored courses);
+E-Learning System available for all employees;
+Firm-Wide and Regional level training;
+
+For more information please visit:
+www.bearingpoint.com
+www.linkedin.com/company/bearingpoint
+instagram.com/bearingpointromania
+facebook.com/BearingPointRomania
+
+
+About BearingPoint
+BearingPoint is an independent management and technology consultancy with European roots and a global reach. We operate in three business units: Consulting Products and Capital. Consulting covers the advisory business with a clear focus on selected business areas. Products provides IP-driven digital assets and managed services for business-critical processes. Capital delivers M&A and transaction services.
+BearingPoint’s clients include many of the world’s leading companies and organizations. The firm has a global consulting network with more than 10000 people and supports clients in over 70 countries engaging with them to achieve measurable and sustainable success.
+We are present in Romania (Bucharest Sibiu Timisoara Iasi) and in the Czech Republic (Prague) and our team has more than 800 employees.
+
+We are guided by our purpose – Together we are more than business.
+It revolves around three key areas of focus – More innovation more for our planet and more for our people. Our people promises – Purpose in Practice Deeper Connections New Flexibility Personal and Professional Growth and Holistic Wellbeing and Rewards brings together our values aspirations and responsibilities towards our people. It helps our people achieve and accomplish more than you can imagine possible.
+
+We can’t do this alone. We can do this together. Join us.

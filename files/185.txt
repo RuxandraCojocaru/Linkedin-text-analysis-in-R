@@ -1,0 +1,82 @@
+Cloud Platform Engineering
+
+Our team in LSEG Romania is building financial technology which is deployed to the world. The technology we deliver is supporting the finance world ecosystem and is shaping the global financial markets. We promote agility innovation and speed to market by supporting businesses across the Group with robust data a reliable infrastructure.
+
+How? Using a multi-cloud approach:
+
+Utilising best in class services from each cloud provider such as Container Orchestration Data Warehouse or compute resources. LSEG Cloud Platform Engineers can work across Azure AWS & GCP which provides opportunities to learn and innovate.
+
+What? Platform Engineering
+
+Platform Engineers design build and deploy landing zones that provide essential shared services security integrations network configurations and IAM boundaries that enable our developers to build cloud native world class applications that power financial markets.
+
+Who? The People
+
+We’re looking for talented engineers who are ready to move into cloud and those that are already there with experience to share. You will be joining an international team who will welcome you and allow you to grow.
+
+In return we will support your development through cloud certifications via programmes such as the MS enterprise skills initiative and let you take time out to keep your skills up to date whether it be game days innovation weeks or your own personal development plan.
+
+Role responsibilities
+
+Contributes to and develops high-quality software design and architecture.
+Designs develops and delivers software solutions that align with architecture operational and risk processes.
+Develops tools and applications by producing clean efficient code;
+You may be assigned tasks in areas of creating and maintaining deployment tooling and automation to support the CI/ CD pipelines;
+Advocate and evangelise best practice engineering;
+Have familiarity with security and operational best practices;
+Collaborates with internal teams (including Product Owners/Business and Client Analysis) and vendors to fix and improve products;
+Works closely with the Research Product and Sales teams to deliver products services enhancements and solutions to meet customer needs and align with the goals of the business line.
+
+Knowledge Skills And Experience Required
+
+* We are open to all seniority levels from Juniors (1-2 years of experience) up to 10+ years (including People Manager and/or Technical Lead responsibilities) *
+
+Hands on experience in deploying into critical production environments
+Experience with Cloud Native technologies on at least one of the major cloud services providers (AWS Google Cloud or Azure) would be useful but we also need people who are keen to learn and have experience of traditional IT.
+If you’re Proficient with Git/Gitlab/Jira/Bitbucket/Jenkins we’ll be more than happy to hear from you.
+If you’re a Linux Windows or Network professional with industry experience and need a way into cloud computing get in touch.
+We deploy & deliver everything with Terraform we find processes to automate IAC is our best friend. If you are that person apply today.
+Can you work using Agile practises and methods?
+Are you willing to contribute to engineering designs processes and solutions that power financial markets today and tomorrow?
+Do you want to be part of an international team with a global remit?
+
+Benefits
+
+We are looking for intellectually curious people passionate about the bigger picture of how technology industry is evolving ready to ask difficult questions and deal with complicated scenarios. If you are creative and a problem solver this is the place to be as will be supporting you to fast-forward your career.
+
+We Believe That Remunerating Our People With Competitive Salaries And a Range Of Attractive Benefits Such As
+
+We maximise each employee’s potential through personal development and through a wide range of learning tools both formal and informal.
+
+Flexible working
+30* vacation days - default 25 vacation days per year +1 day for your birthday +4 additional days for 2022
+Annual wellness allowance
+Annual performance Bonus
+Share Purchase Plan
+Medical Health Insurance
+Medical Subscription (preventive medical services)
+Dental Coverage
+Life insurance
+Accessible office location
+Modern ergonomic office space
+Personal Development Workshops
+Pillar 3 Pension
+Meal Vouchers
+Access to Share Purchase Plan
+Learning opportunities (O'reilly Udemy and more)
+Flexible Benefits
+Bookster
+Volunteering Events
+Team Building
+
+At LSEG we believe that creating a diverse and inclusive organisation is fundamental to the way we deliver on our promise of creating essential partnerships and open opportunities. Our open culture is central to how we deliver our purpose – driving financial stability empowering economies and enabling customers to create sustainable growth – in everything we do.
+
+Working with us means that you will be part of a dynamic organisation of 25000 people across 70 countries. However we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce. You will be part of a collaborative and creative culture where we encourage new ideas and are committed to sustainability across our global business. You will experience the critical role we have in helping to re-engineer the financial ecosystem to support and drive sustainable economic growth. Together we are aiming to achieve this growth by accelerating the just transition to net zero enabling growth of the green economy and creating inclusive economic opportunity.
+
+LSEG offers a range of tailored benefits and support including healthcare retirement planning paid volunteering days and wellbeing initiatives.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race religion colour national origin gender sexual orientation gender identity gender expression age marital status veteran status pregnancy or disability or any other basis protected under applicable law. Conforming with applicable law we can reasonably accommodate applicants' and employees' religious practices and beliefs as well as any mental health or physical disability needs.
+
+Please take a moment to read this privacy notice carefully as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you what it’s used for and how it’s obtained your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.

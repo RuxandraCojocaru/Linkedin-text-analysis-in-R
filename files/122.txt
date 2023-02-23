@@ -1,0 +1,45 @@
+Job Description Summary Responsible for testing a feature and or a small feature set with ability to work independently break down problems and estimate time for quality related tasks.
+
+Job Description
+
+In This Role You Will
+Design (FAT / SAT test) and test strategy/plans on products in the Smallworld product portfolio.
+Record and document results and compare to expected results.
+Detect software failures so that defects may be discovered and corrected.
+Generate historical analysis of test results.
+Document anomalies and issues and maintain database of software defects.
+Operate and maintain test systems and networks.
+De ve lop   and   document   application   test   plans   based   on   software   requirements   and   technical specifications.
+Attend Project Defect Review Meetings
+Liaise with Project Manager and Technical Lead on Testing Progress and Summary Results
+Create meaningful error handling procedures for system and applications.
+Ensure compliance with general programming and integration best practices
+Perform system security audits.
+Experience with test tools (QTest TestLink  T-map …)
+Experience with geo-spatial applications
+Preferred domian knowledge: Telco Electrical distribution/transmission Gas distribution/transmission
+
+Basic Qualifications
+At least 2 years of experience in systems testing.
+Knowledge of all aspects of the software engineering process - mandatory
+Experience in a wide variety of testing efforts techniques and tools - mandatory
+Knowledge of the domain system or application-under-test - important
+Experience in system integration and programming – important
+
+Eligibility Requirements
+Must be willing to travel 20 %
+
+Desired Characteristics
+Experience with Utilities and/or Telecoms asset management systems
+Demonstrated ability to learn
+E xperience with Web and GIS Technologies
+Experience working with global teams / partners .
+Strong oral and written communications skills (English) .
+Initiative and self-confidence.
+
+
+
+
+Additional Information
+
+Relocation Assistance Provided: No

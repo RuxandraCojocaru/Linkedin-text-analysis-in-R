@@ -1,0 +1,38 @@
+Your new role
+
+You will part of a team designing and implementing cloud-based engineering infrastructure and digital services
+Maintenance and optimization of the existing AWS infrastructure both via AWS console and Terraform.
+Develop and maintain docker infrastructure
+Implementation and maintenance of CI/CD pipelines in GitLab
+Give input on possible directions of future development
+Become part of an internationally distributed team of developers and engineers
+
+Your Qualifications
+
+Bachelor’s (or higher) Degree in Computer Science or comparable
+Experience with AWS foundational cloud services for storage computation event processing messaging data processing and analytics
+Experience in containerizing and clustering: Kubernetes HELM Docker
+Experience in configuration management and deployment tool Ansible
+Experience with Terraform and Packer to maintain infrastructure as code
+Experience with Nginx Apache R shiny server is considered a plus
+Proficiency with at least one scripting language: Bash Python
+Solid understanding of DevOps principles
+You bring analytical skills initiative and problem-solving attitude along
+You have experience of working in an agile team and excellent communication skills
+You are fluent in English
+
+About Us
+
+We're Siemens a collection of great minds who are all making the future. You could be one of us Siemens is a global technology powerhouse that owns innovative solutions in the areas of electrification automation and digitalization. Software and R&D play a crucial role at Siemens. In Brasov Cluj-Napoca and Bucharest we have a competence center for research software development IT and engineering which makes the company a major leader in vertical IT technologies.
+
+At Siemens we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+Join us!
+
+Organization: Advanta
+
+Company: Siemens S.R.L.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time

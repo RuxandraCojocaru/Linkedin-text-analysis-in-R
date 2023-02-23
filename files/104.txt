@@ -1,0 +1,74 @@
+#WeAreCrowdStrike and our mission is to stop breaches. As a global leader in cybersecurity our team changed the game. Since our inception our market leading cloud-native platform has offered unparalleled protection against the most sophisticated cyberattacks. We’re looking for people with limitless passion a relentless focus on innovation and a fanatical commitment to the customer to join us in shaping the future of cybersecurity. Consistently recognized as a top workplace CrowdStrike is committed to cultivating an inclusive remote-first culture that offers people the autonomy and flexibility to balance the needs of work and life while taking their career to the next level. Interested in working for a company that sets the standard and leads with integrity? Join us on a mission that matters - one team one fight.
+
+About The Role
+
+CrowdStrike is looking to hire a Big Data DevOps Engineer to the Data Services team to help us take our database systems to the next level. We’re looking for a highly-technical hands-on DevOps Engineer who wants to work with data plane service like ElasticSearch and is comfortable building automation around large-scale cloud-based critical systems. We’ll be looking at your resume with an eye on achievement - what you’ve accomplished in the past tells us the most about what you can do for us in the future.
+
+Engineering Data You Should Know
+We send and analyze over 1 trillion events/day to the cloud
+We have an architecture with hundreds of microservices
+We have our Custom Graph Database
+Our Cassandra deployment is one of the largest in the world
+We have almost as many Kafka nodes as we do employees
+If you are a hands-on Big Data DevOps Engineer who wants to operate at scale apply & let's talk!
+
+Interviewing Process: Online
+
+Work remotely: Our new colleague will work remotely from Romania.
+
+After Covid Pandemic the colleagues based in Bucharest Romania will have the option to work from the office or from home.
+
+We Invite You To
+Find out why you should join CrowdStrike recognised as a pre-eminent market and technology leader in cybersecurity - https://bit.ly/3GMSqll
+Find out how is it to have Autonomy Mastery & Purpose - https://bit.ly/3qPh38T
+Meet our Engineers - www.youtube.com/watch?v=910FGi7VSWU
+Meet virtually CrowdStrike's Romania Team - http://y2u.be/gGPjGsr5Kw4
+Work with Better Tech & Have a Bigger Mission - https://bit.ly/3c92J73
+Learn about the Challenge of Working With Data at Scale - https://bit.ly/3EMEnMi
+Responsibilities
+Maintain a deep understanding of the data components - ElasticSearch and use that understanding to operate and automate properly configured clusters
+Work with Engineering to roll out new products and features
+Develop infrastructure services to support the CrowdStrike Engineering Team’s pursuit of a full DevOps model
+Work closely with Engineering and Customer Support to troubleshoot time-sensitive production issues regardless of when they happen
+Keep petabytes of critical business data safe secure and available
+Willingness to learn other technologies in the CrowdStrike Technology Stack (listed below):
+
+Technology Stack
+Cassandra
+Kafka
+MongoDB
+Zookeeper
+Hadoop (EMR)
+Spark
+MySQL PostgreSQL
+Redis
+Memcached
+Python
+Chef
+Terraform
+Jenkins
+AWS
+Desired Skills & Experience
+4+ years of experience with large scale data stores using ElasticSearch
+Experience with large-scale business-critical Linux environments
+Configuration management automation using Chef and/ or Puppet Ansible
+Coding or scripting experience – Python or Bash Perl
+Experience operating within the cloud preferably Amazon Web Services
+Proven ability to work effectively with both local and remote teams
+Track record of making great decisions particularly when it matters most
+Fluency in English both written and verbal with excellent communication skills required
+A combination of confidence and independence with the prudence to know when to ask for help from the rest of the team
+Experience in the information security industry preferred but not required
+Bachelor’s degree in an applicable field such as Computer Science CIS or Engineering
+Benefits Of Working At CrowdStrike
+Remote-first culture
+Market leader in compensation and equity awards
+Competitive vacation and flexible working arrangements
+Comprehensive and inclusive health benefits
+Physical and mental wellness programs
+Paid parental leave including adoption
+A variety of professional development and mentorship opportunities
+Offices with stocked kitchens when you need to fuel innovation and collaboration
+We are committed to fostering a culture of belonging where everyone feels seen heard valued for who they are and empowered to succeed. Our approach to cultivating a diverse equitable and inclusive culture is rooted in listening learning and collective action. By embracing the diversity of our people we achieve our best work and fuel innovation - generating the best possible outcomes for our customers and the communities they serve.
+
+CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race color religion sex including sexual orientation and gender identity national origin disability protected veteran status or any other characteristic protected by applicable federal state or local law.

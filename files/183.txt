@@ -1,0 +1,38 @@
+Digital Value Creator.
+
+Before our software developers write even a single line of code they strive to understand what drives our customers. What is their environment or user story based on? Implementation means – trying testing and improving outcomes until a final solution emerges. Knowledge means exchange – discussions with colleagues from all over the world. Join our team and enjoy the freedom to think in completely new categories.
+
+Change the future with us! Join our Tools Team to help us develop high quality software solutions for our Siemens colleagues!
+
+Use Your Skills To Move The World Forward.
+
+English - high level of proficiency.
+Programming languages: C# (or similar).
+Understand legacy code (C++ Java)
+Frameworks: .NET / .NET Core (back-end); (or similar and willingness to adapt to .NET).
+Experience with back-end development.
+Experience with UI Frameworks (web / Windows Forms or WPF).
+Flexibility to travel occasionally.
+At least 3 years of experience on a similar role.
+
+Nice to have:
+
+Experience with client-server applications asynchronous programming web services.
+Experience with SQL Server.
+Experience with various unit testing frameworks.
+Configuration management.
+Understanding of automation processes.
+
+Make your mark in our exciting world at Siemens. Make real what matters.
+
+At Siemens everyone can bring their whole self to work. This is why we are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process to perform essential job functions and to receive other benefits and privileges of employment.
+
+We are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+Organization: Advanta
+
+Company: Siemens S.R.L.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time

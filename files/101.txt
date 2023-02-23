@@ -1,0 +1,33 @@
+Project Description
+About the Project
+Our client is looking for QA Networking Engineers with Test Automation and Python skillset who are defining and maintaining the Quality Release Gate for our Customer. This Team has the ownership to define the process debug all aspects of the Products' functionality in its release cycle and work closely together with our Test and Framework Development Team to identify root causes raise issues accordingly to feature developers triage problems and fix the issues inside their area of competence (the Product Testing Framework). This team also collaborates closely with the Customer's Developer Team on feature issues and thus reduces the number of flaws in the Product. The Customer relies on us to keep a healthy and real PASS rate of the tests in order to maintain a high-performance product and demonstrable quality metrics (Quality Gate). The previous in-place process was not scaling up to the agile release strategy of the Customer's products.
+
+Thus the ideal candidate has deep knowledge of computer networking as well as automation skills necessary to understand and debug efficiently the various testing scenarios (strong preference is Python as the framework and tests are written in Python). Prior experience with distributed systems is highly desirable.
+
+Our current team: Our current Test and Framework Development Team is comprised of experienced Automation and Manual QA Engineers working in an agile process of Product Lifecycle Management.
+
+Tools and
+Technologies used
+Python 2.x /3.x Atlassian Suite Jenkins Bitbucket Git KVM/vCenter Linux Docker Ixia VxLAN eVPN BGP.
+
+Opportunities for you
+Debug all functional aspects of the Products and Test Framework gaining experience in a wide area of technologies and devices (Advanced Applied Python knowledge Cisco Juniper Arista Cumulus etc.). Work in a Docker environment. Define the Quality Gate process with the help of our existing team maintaining it and having ownership over it. Collaborate closely with our local team and with the Customer's team. Contribute to automated test case development and framework development when the QG is GREEN and/or workload need is low (e.g. between release-end - release-start) - to keep a flexible challenging work content and thus keep people motivation levels high as well as work efficiency.
+
+Our Team has developed a state-of-the-art Auto Triage Framework which uses advanced signature learning techniques to assist our Engineers in performing RCA and streamlining the Quality Gate process. Everyone has the opportunity to use and contribute to Auto Triage a unique framework which is providing exceptional value to our Engineers and to our Customer.
+Responsibilities
+- Contribute to the quality strategy of the products by developing and maintaining the Quality Release Gate process (including Auto Triage Framework)
+- Run and debug automated integration and system tests in Python
+- Work closely with the engineering team to isolate and resolve defects in a timely manner
+- Work closely with our local team to debug test deployment/pre-prod framework and test related issues
+- Create bug reports when issues arise and track them through completion.
+- Triage failures per severity and prioritize as necessary.
+- Contribute to test automation and test framework development when needed.
+Skills
+Python Networking
+Nice to have
+Automation OSPF (Open Shortest Path First) BGP (Border Gateway Protocol) VxLAN VPNs VMware vCenter Networking Juniper Arista Cisco Switches/Routers.
+Languages
+Romanian: B2 Upper Intermediate
+English: B2 Upper Intermediate
+Seniority
+Junior

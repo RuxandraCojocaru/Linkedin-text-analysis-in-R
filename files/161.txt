@@ -1,0 +1,45 @@
+Description:
+
+The customer is a leading multinational provider of the telecommunication technologies and services.
+
+The product is a network configuration and inventory management system designed for the telecommunications industry. This is a platform for planning designing rearranging and documenting the inventory of complex communication services and networks. It provides a comprehensive view of your services resources and networks and the relationships among them. The system enables the communication carriersto manage their network inventory track current assets develop complex configurations and schedule future resources for wireless wireline voice-based or databased services.
+
+Requirements:
+
+Bachelor or Master degree in Security Mathematics or Computer Science;
+Prior experience (3-5 years) in a DevSecOps or Security Engineerin Production Engineering or related position;
+Ability to work with APIs and Plugins to integrate security tools into established CI/CD pipelines (i.e. OWASP ZAP JFrog Xray Anchore and SAST tools etc.);
+Experience working with Developers DevOps and Engineering teams in a dynamic environment to promote/implement the DevSecOps program throughout the organization;
+Experience coordinating and performing vulnerability assessments through automated and manual tools (Nessus nmap sqlmap etc.);
+Familiarity with core DevOps tools (Jenkins build server repositories etc.) and experience with Kubernetes;
+Ability to review and analyze reports to identify security risks to the application and determine any reported vulnerabilities that are false positives;
+Capability to prepare vulnerability and risk management reports for management;
+Proficiency in Java Programming and Bash Python or other scripting languages;
+Familiarity with Information Security frameworks/standards (i.e. OWASP CIS NIST RFC2196 etc.);
+Comprehension in the security areas of Penetration Testing Security Assessment and Vulnerability Assessment;
+Experience configuring implementing and leveraging computer security and networking diagnostic/monitoring tools;
+Knowledge of Linux information security functions (patch management authentication privileges filesystem permissions iptables SSL SSH etc.).
+
+Job Responsibilities:
+
+Provide application security expertise to customer project delivery teams throughout the Secure Software Development Lifecycle (SSDLC).
+Discovery vulnerabilities and provide recommendations to developers for remediation.
+Perform security audits on internal projects.
+Perform vulnerability assessment.
+Automate vulnerability management and assessment processes.
+
+What We Offer
+
+Exciting Projects: Come take your place at the forefront of digital transformation! With clients across all industries and sectors we offer an opportunity to participate in creating market-defining products using the latest technologies.
+
+Collaborative Environment: Expand your skills by collaborating with a diverse team of highly talented people in an open laidback environment — or even abroad in one of our global centers or client facilities!
+
+Work-Life Balance: GlobalLogic prioritizes work-life balance which is why we offer flexible opportunities and options.
+
+Professional Development: Our dedicated Learning & Development team regularly organizes certification and technical / soft skill training to help you realize your professional goals.
+
+Excellent Benefits: We provide our consultants with competitive compensation and benefits
+
+Fun Perks: We want you to love where you work which is why we host sports classes cultural social and team building activities such as sports competitions and end-of-year corporate parties. Our vibrant offices also include dedicated GL Zones and rooftop decks where you can drink coffee or tea with your colleagues over a game of table football or darts!
+
+About GlobalLogic GlobalLogic is a leader in digital engineering. We help brands across the globe design and build innovative products platforms and digital experiences for the modern world. By integrating experience design complex engineering and data expertise—we help our clients imagine what’s possible and accelerate their transition into tomorrow’s digital businesses. Headquartered in Silicon Valley GlobalLogic operates design studios and engineering centers around the world extending our deep expertise to customers in the automotive communications financial services healthcare and life sciences manufacturing media and entertainment semiconductor and technology industries. GlobalLogic is a Hitachi Group Company operating under Hitachi Ltd. (TSE: 6501) which contributes to a sustainable society with a higher quality of life by driving innovation through data and technology as the Social Innovation Business.

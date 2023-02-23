@@ -1,0 +1,31 @@
+Oracle Communications are creating new digital experiences delivering on the full potential of 5G and easily deploying new IoT business models. With our complete suite of cloud-native applications and secure network infrastructure solutions customers can evolve their networks and grow revenue.
+As Oracle is playing a key role in the digital transformation and deployment of NGN 4G and 5G networks a consulting professional who has good understanding of solutions industry best practices multiple business processes and technology designs within the communications industry with focus in the VoIP domain. +2 years of experience and good understanding of relevant telecommunication protocols in the VoIP space (SIP RTP Diameter TLS IPSEC…)high level technology designs and standard network architecture & components (SBC IMS VoLTE Corporate Communications & Contact Center solutions).
+As a member of the consulting team you will analyze requirements/data and provide quality work products to deliver functional and technical solutions on applications and technology installations. Work involves problem solving with assistance and guidance in understanding and applying relevant Oracle methodologies and practices. You will implements Oracle products and technology in various industries to meet customer specifications.
+Specific tasks of the job include:
+
+Configure and troubleshoot Oracle CGBU network systems (OC-SBC OC-SR OC-OM OC-SDM and related systems) on site or remotely in an autonomous manner.
+Participate in solutions analysis and designs that lever on Oracle Communications products providing with expert advice to best implementation options to address customer requirements
+Prepare or help preparing project related documentation (High/Low Level Design Document Test Plans etc).
+Prepare or help preparing customer facing technical content and information about Oracle CGBU network solutions.
+Work with the Support and Development teams to identify best solutions to specific issues or address issues identified within the deployment phases
+Provide in-depth technical support to external (customer partners system integrators…) and internal (account managers sales representatives PLM engineering support organizations…) stakeholders.
+Take an active role in positioning Oracle services and solutions among existing or potential customers
+Actively collaborate with service and product sales teams in executing go-to-market strategy and crow business.
+
+This is an entry level or intermediate consulting position operating independently with some assistance and guidance to provide quality work products to a project team or customer that comply with Oracle methodologies and practices. Performs standard duties and tasks with some variation to implement Oracle products and technology to meet customer specifications.
+Standard assignments are accomplished without assistance by exercising independent judgment within defined policies and processes to deliver functional and technical solutions on moderately complex customer engagements.
+Specific skills and requirements
+
+Graduate degree in Telecommunications or equivalent
+You will have 1-3 years of overall experience in relevant functional or technical roles.
+Good or very good understanding of SIP and associated standards/protocols (RTP SDP ENUM…) is a must
+Good understanding or IP/TCP and associated protocols and standards is required
+Good understanding of network solutions and other telecommunication protocols (Diameter HTTP JSON ISUP SS7 MGCP… ) and high level technology designs and network architectures and components (IMS VoLTE telco architecture SBC…)
+Experience within a network switching and routing environment is good to have.
+Familiar and hands-on experience in working with Linux or relevant *nix OS environments is welcome.
++2 years’ experience in technical role
+Product or technical expertise relevant to practice focus.
+Experience working within a client facing role is a plus
+Ability to work independently with occasional remote support.
+Ability to prioritize and manage workload efficiently in order to meet committed deliverables and timelines.
+Ability to communicate effectively and build rapport with team members and clients.

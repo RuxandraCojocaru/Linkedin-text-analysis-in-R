@@ -1,0 +1,29 @@
+YOUR RESPONSIBILITIES
+Development of web backend and micro services primarily with Node.js and Java Spring Boot for leading automotive manufacturers
+Working on web applications in a cross-functional team
+Support with the development of CI/CD pipelines
+Working on concepts and specifications in coordination with customers
+
+YOUR PROFILE
+First experience with Node.js and/or Java Spring Boot Rest API SQL and NoSQL databases
+Knowledge of quality standards and professional methods in software development such as Clean Code TDD SOLID Principles etc.
+Knowledge of Front End technologies like Angular and/or React is an advantage
+Knowledge of Linux Docker Kubernetes Open Shift is an advantage
+Good communication skills (also in English German is a plus)
+Interest in the automotive industry is an advantage
+
+YOUR BENEFITS
+We create more flexibility for you - Adaptable working hours and home office possibility
+We support your career strategy - Professional trainings and great opportunities of professional growth
+We ensure your vacation time – Extra holiday days
+We take care of your health – Full private medical package
+We provide attractive salary supplements – Enjoy your bonus time!
+We support your well-being - Sports and wellness offers
+
+CONTACT
+Timea Kovacs
+career_romania@arrk-engineering.com
++ 40 (0) 364 434 – 717
+privacy policy
+
+ARRK Engineering is part of the international ARRK Group and specialized in all services relating to product development. Within the ARRK Group we implement product development from virtual engineering to prototypes and low volume production.

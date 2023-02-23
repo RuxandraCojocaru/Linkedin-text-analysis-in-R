@@ -1,0 +1,46 @@
+Responsibilities
+
+Finastra: Who are we?
+
+We are one of the world’s largest fintechs with a team made up of over 10000 superstars serving more than 8500 customers across 130 countries.
+
+The Future is OPEN.
+
+Our Mission and Vision:
+
+Our vision is to unlock the potential of people and businesses by creating the #1 open platform for innovation in the world of financial services.
+
+What will you contribute?
+
+Product
+
+FusionCapital Summit is a proven award-winning solution in the OTC derivatives market. Built on over 25 years of market expertise it helps banks meet these challenges head-on and stay one step ahead. It offers a functionally rich core trading solution for treasury and capital markets that supports business growth improves straight-through processing (STP) shortens time to market while reducing costs.
+
+Team
+
+As a Quality Assurance Engineer you will be at the core of the development process of financial software for large investment banks. Start by working with Business Analysts to understand requirements in order to design test cases that prove the applications are fit-for-use. Then go ahead to confirm the features work fine by manual and automated testing and where you spot a defect support improvements by working with Development team. In QA you can always be the first customer and you are free to go for achieving a good balance between finance knowledge testing skills and technical aspects in a fast paced and complex environment.
+
+Responsibilities & Deliverables:
+
+Your deliverables as a Junior Quality Engineer Functional will include but are not limited to the following:
+Design and implement test strategy for each QA deliverable based on business requirements individual input and cooperation with other teams
+Report software issues work closely with the development team to fix them and validate provided solutions
+Contribute to all software testing types like functional regression automation performance documentation
+Provide feedback on the quality of the project/product through meetings testing progress reports and communication with the project team/stakeholders
+Support from a quality assurance perspective the client’s software usage in production
+
+Required Skills and Experience:
+Bachelor or master’s degree in finance Capital Markets or Computer Science
+Basic/medium financial knowledge related to banking and/ or capital markets concepts
+Basic understanding about software testing
+Basic technical skills or interest in IT (eg: MS Office – particularly Excel Octane messaging database user interface technologies)
+Good written and spoken English
+Able to quickly understand new concepts
+Act both as a team player and self-learner
+Possess analytical thinking be detail oriented and well-organized
+Be able to communicate effectively with persons holding different roles
+
+Nice to have skills:
+Experience with financial/ banking software
+Experience in a workflow driven environment (ideally software testing)
+Experience in a global working environment

@@ -1,0 +1,57 @@
+The Team
+
+Our team is involved in product development for the Smart Infrastructure division of Siemens in the fields of Energy Management and Building Products and has complete responsibility for new modules and products.
+
+Hardware and software developers along with QA Engineers are working together from various locations and support each other in a highly effective way.
+
+Learning is highly encouraged in the team and supported by the management. Everyone in the team can contribute to any part of the system. This way everyone has the opportunity to learn different concepts and work with the latest technologies.
+
+The Project
+
+The partner division has developed and deployed world class systems to automate and manage complex buildings such as hospitals data centers or universities: Siemens Desigo.
+
+As energy efficiency is a major concern in the development of Siemens systems our work has a direct contribution to the lowering of the carbon footprint of large buildings which already consists of 36% of the total emissions across Europe.
+
+The technology stack consists of Cypress (with TypeScript) Angular RxJs TypeScript Node.js Nest.js TypeORM PostgreSQL AWS Terraform Docker Kubernetes and is always up to date.
+
+CI/CD is very important for us along with automatic tests. There are regularly scheduled “Innovation Sprints” with the purpose of trying new solutions ideas or create PoCs.
+
+Requirements
+
+Experience in QA automation technologies for web applications such as Cypress Protractor or Selenium
+Solid understanding of the product development lifecycle
+Ability to interpret product features from a user point of view
+Familiarity with QA tools and techniques (e.g. Root cause analysis) bug tracking systems
+Knowledge of tools like SOAPUI or Postman
+Knowledge of tools like NPM or Yarn
+JavaScript know-how – TypeScript know-how is a plus
+Git know-how
+Willingness and ability to learn and apply new concepts or technologies
+Proactive and motivated personality with excellent communication skills to cooperate with other disciplines as well as other locations in a global setup
+Fluency in English spoken and written
+Good analytical skills
+Ability to work in a team environment and provide cross-project support
+
+Responsibilities
+
+Review information of product requirements and features
+Work together with the team when planning to increase the testability of the work items
+Develop tests with Cypress using TypeScript
+Plan and estimate the work packages to achieve test coverage
+Contribute to the next generation of Building Automation system with modern and scalable concepts
+Work in an agile development environment while following Scrum and SAFe principles
+
+Nice to have
+
+ISTQB Certification(s)
+CI/CD Knowledge
+
+At Siemens we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds.
+
+Organization: Advanta
+
+Company: Siemens S.R.L.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time

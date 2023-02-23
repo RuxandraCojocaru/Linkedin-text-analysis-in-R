@@ -1,0 +1,31 @@
+At Microchip we work every day to innovate and develop products that solve our customers’ technology challenges. Our team of more than 20000 people worldwide is dedicated to delivering on the promise of working together to improve lives.
+
+Learn about our guiding values that are the building blocks and foundation of our culture and discover how we make a positive impact in the communities in which we operate. We believe our culture fosters trust collaboration and belonging.
+
+Our people serve the industrial computing automotive communications aerospace and defense and consumer market segments. As part of our global team you can build technology solutions in our six growth areas – 5G data centers autonomous driving the Internet of Things electric vehicles and artificial intelligence and machine learning.
+
+Around the world we are committed every day to recruiting retaining and promoting people in our diverse workforce. Your perspective passion and ingenuity will contribute to achieving more as we fulfill our mission as a leading provider of smart connected and secure embedded control solutions.
+
+Join our community of exceptional people doing incredible things.
+
+Job Description
+
+Microchip Technology is looking for a talented Software Engineer to expand its mixed-signal Applications software department in Bucharest Romania. The candidate will be part of a worldwide team responsible for the development and maintenance of software applications.
+
+Job Description
+Maintain and develop standalone and web applications using mainly Python for the backend
+Maintain and develop web based applications (frontend) using modern frameworks
+Perform research activity to ensure the use of best technologies for providing stable and robust software applications
+Develop and maintain backend support (Python) for interfacing with real-world systems (e.g. electronic boards embedded systems)
+Also assist with creating technical documentation specifications and proof of concepts
+Requirements/Qualifications
+Degree in Computer Science Automatics Electronics Mathematics or related field
+Good Python development knowledge
+Good knowledge of one or more of the following web technologies: Django/Angular/React/Redux or similar
+Knowledge of SQL/NoSQL/Redis is a plus
+Knowledge of interfacing the backend (Python) with electronic development boards or embedded systems is a plus
+Ability to work in a team environment
+Very good oral and written communication skills in English
+Travel Time
+
+0% - 25%

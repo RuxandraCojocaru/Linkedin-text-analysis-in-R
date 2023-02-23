@@ -1,0 +1,55 @@
+The Team
+
+EMSYS stands for Embedded Systems development. Complete. From hardware design and PCB layout to firmware and software development integration and testing production support.
+
+Our team is involved in product development for the Energy division of Siemens and has complete responsibility for new modules and products. Hardware and software developers working together in the same location and supporting each other in a highly effective way.
+
+Requirements
+
+Strong skills in C and C++ firmware development and debugging
+
+Strong skills in testing and optimization
+
+Good analytical skills
+
+Fluency in English in spoken and written
+
+Ability to work in a team environment and provide cross-project support
+
+Responsibilities
+
+Analyzing and implementing new requirements
+
+Elaborating firmware architectural specifications
+
+Firmware development in C and C++ for embedded systems in the industrial field
+
+Embedded software debugging and code base maintenance
+
+Documentation for support and production
+
+Hardware and test team support
+
+System integration support
+
+Nice to have
+
+Knowledge on electronics and the ability to understand schematics
+
+Knowledge on ARM based MCUs
+
+Knowledge on CAN PROFIBUS and PROFINET communication and other industrial protocols
+
+Good knowledge of OOP principles
+
+Experience in teams performing complete product development projects (hardware firmware testing)
+
+At Siemens we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+Organization: Advanta
+
+Company: Siemens S.R.L.
+
+Experience Level: Early Professional
+
+Full / Part time: Full-time

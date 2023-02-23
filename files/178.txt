@@ -1,0 +1,93 @@
+We are Siemens
+
+Siemens Digital Industries Software is a leading provider of solutions for the design simulation and manufacture of products across many different industries. Formula 1 cars skyscrapers ships space exploration vehicles and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software.
+
+The promise of a digital future…today. With the digital twin Siemens Digital Industries Software blurs the boundaries between the virtual and physical hardware and software design and manufacturing worlds. For more information about us visit - https://www.youtube.com/watch?v=k6mVLaUyO4U
+
+Position Overview
+
+As Software Engineer you will design develop modify and implement software programming for products (both internal and external) with focus on surpassing customer expectations on achieving high quality and timely delivery.
+
+You will be responsible for ensuring the overall functional quality of the released product on all required platforms and mechanism
+Ability to understand complex products solutions and problems
+You will build documents and implement software designs which may involve complicated workflows or multiple product areas
+Technical lead of one or more projects within one area of a product
+You will provide guidance to the technical direction for one area of a product
+Occasional you advise customers regarding future upgrades and products
+You will provide niche expertise within multiple systems software disciplines as well as general knowledge of related fields applications implications and customer areas
+In this role you work with minimal direction on sophisticated projects with wide latitude for independent judgment
+
+Duties and Responsibilities:
+
+Project Management: Participates in project planning (task subdivision and identification dependency identification estimating effort) and project tracking (monitoring reporting and adjusting)
+Process focus: Follows documented practices standards and procedures to help efficiently develop high-quality software
+Product or domain knowledge: Maintains industry and technology knowledge in relevant product areas. Evaluate customer requests and develop an understanding of customer needs
+Requirement Definition: Possesses sufficient domain knowledge to understand and analyze requirements and document the requirements in formal specifications.
+Functional Specification: Proposes and defines creative and feasible solutions to optimally address the requirements and documents (or assists to document) informal specifications
+Test Planning: Analyzes code paths and system functionality to create test plans.
+Algorithm and Software Design: Designs well-constructed software functions that are potentially reusable. Documents the software design
+Coding: Uses clear understandable logic to write efficient maintainable code which meets design specifications quality requirements and coding standards
+Testing: Performs code level and system level test plans and reports results
+Maintenance: Maintains existing products and fixes customer problems. Explores the actual root cause of a deficiency such that the source of the problem is removed rather than implementing a symptomatic fix
+
+What You’ll Bring
+
+Bachelor's degree in Computer Science Mechanical Engineering Aerospace Engineering Civil Engineering Engineering Mechanics or equivalent.
+Experience in JAVA or C++ in a commercial quality software environment
+Exposure to cloud and web development technologies (Javascript React Angular)
+Exposure to any PDM system and/or finite element modelling and analysis workflows
+
+What we offer?
+
+Meal tickets
+Christmas Easter and summer monetary bonus
+13th month salary
+Medical packages for employee spouse and children
+Complex sports package with limitless access for the employee
+Private pension
+Annual eyewear compensation
+Tickets reimbursement for opera philharmonic or theater for the employee +1
+2 ski passes/month for local resorts in the winter season
+Increasing number of vacation day based on seniority
+2 sick leave days per semester for medical unavailability (4 days per semester for parents of small children)
+Compensation for bank holidays which fall on a weekend
+Trainings conferences and other educational events access
+Internal training platform
+Kit for working from home (desk chair etc.)
+Gifts for employees and/or children for Easter June 1st Christmas etc.
+
+We offer an international environment with more than 140000 customers around the world who already rely on our expertise in digitization. We are involved in exciting and varied customer projects in the aerospace automotive and transportation consumer products and retail electronics and semiconductors energy and utilities industrial machinery and heavy machinery maritime and medical devices and pharmaceuticals industries. With us you will find a team-oriented work environment comprehensive training options and attractive benefits. Through individual target agreements and diverse career models with specialization options we offer you the opportunity to grow professionally and personally.
+
+We are always challenging ourselves to build a better future. Be part of the most innovative and diverse Digital Minds to develop tomorrow ‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds
+
+We'd love to hear from you so apply now on siemens.com!
+
+We look forward to your application! Please use only our career platform which you can access via "Apply now".
+
+Come and learn more about Siemens Software: Mission / Vision and our software portfolio - or visit our homepage.
+
+We value equal opportunities and welcome applications from people with disabilities. At Siemens we believe people who’ve had real experiences dealing with being different will excel as leaders. Let's foster a culture of creativity and innovation. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process to perform essential job functions and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+#DISW
+
+Additional Materials:
+
+Siemens Digital Industries Software Homepage:
+
+https://www.sw.siemens.com/
+
+Siemens Digital Enterprise videos:
+
+https://www.youtube.com/watch?v=k6mVLaUyO4U
+
+Siemens PLM & MOM videos:
+
+https://www.youtube.com/channel/UCYR5Kgzn6suihs56iJ8_vfw
+
+Organization: Digital Industries
+
+Company: Siemens Industry Software S.r.l.
+
+Experience Level: Experienced Professional
+
+Full / Part time: Full-time
